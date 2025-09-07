@@ -8,7 +8,7 @@ Retrieval-Augmented Generation (RAG): to align generated topics with the most re
 
 Fine-tuned LLMs: trained on real thesis projects to ensure realistic structure, complexity, and academic rigor.
 
-🚀 Features
+## 🚀 Features
 
 Extracts relevant courses from the student’s curriculum using a vector database (Chroma, FAISS, Pinecone, or Weaviate).
 
@@ -31,7 +31,9 @@ Generates structured thesis proposals with:
 🌍 Alignment with UN SDGs (ODS)
 
 
-🏗️ Project Architecture
+## 🏗️ Project Architecture
+
+```mermaid
 flowchart LR
     A[Student Input] --> B[Embeddings Model]
     B --> C[Vector Database]
@@ -39,24 +41,18 @@ flowchart LR
     D --> E[Prompt Maker]
     E --> F[Fine-Tuned Model]
     F --> G[Thesis Proposal Output]
-
+```
 
 Input:
 
 Career (predefined)
-
 Interests / Technologies
-
 Subjects (retrieved via RAG)
 
 Output:
 
 Thesis title
-
 Description
-
 Objectives
-
 Methodology
-
 ODS (Sustainable Development Goals)
