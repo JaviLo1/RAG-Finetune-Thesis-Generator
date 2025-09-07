@@ -43,16 +43,23 @@ flowchart LR
     F --> G[Thesis Proposal Output]
 ```
 
-Input:
+**Input:**
 
 Career (predefined)
+
 Interests / Technologies
+
 Subjects (retrieved via RAG)
 
-Output:
+
+**Output:**
 
 Thesis title
+
 Description
+
 Objectives
+
 Methodology
+
 ODS (Sustainable Development Goals)
