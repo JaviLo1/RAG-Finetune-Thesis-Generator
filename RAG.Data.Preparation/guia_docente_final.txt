@@ -1,0 +1,2349 @@
+Asignatura: Fundamentos Químicos en la Ingeniería
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Módulo I: 
+Bloque 1. Introducción a la química. Estequiometría: Definir conceptos fundamentales, razonar cuestiones y resolver 
+problemas básicos de estequiometría. Formulación y nomenclatura (Tema 1). 
+Bloque 2. Estructura de la materia: Orígenes de la mecánica cuántica y forma de los orbitales atómicos. Saber determinar
+
+
+configuraciones electrónicas, así como analizar la variación de las propiedades periódicas de los elementos (Temas 2, 3 y 4). 
+Bloque 3. El enlace químico: Tipos de enlace químico, representaciones de estructuras de Lewis, orbitales moleculares,
+propiedades características que confieren los enlaces a los distintos materiales (Temas 5 y 6). 
+ 
+Módulo II: 
+Bloque 4. Transformaciones de la materia I: Razonar cuestiones básicas y resolver problemas relacionados con la
+termoquímica/termodinámica y la cinética de reacciones químicas (Temas 7 y 8). 
+Bloque 5. Estados de agregación de la materia: Principales diferencias y las condiciones bajo las que se producen las
+transiciones entre los diferentes estados de agregación o su coexistencia (gases, líquidos, sólidos). Disoluciones,
+concentraciones (Temas 9, 10 y 11). 
+ 
+Módulo III: 
+Bloque 6. Transformaciones de la materia II: Razonar cuestiones básicas y resolver problemas relacionados con el equilibrio
+químico, equilibrio ácido-base, equilibrio de solubilidad, valoraciones redox y pilas electroquímicas (Temas 12, 13, 14 y 15). 
+ 
+Prácticas de Laboratorio: La asignatura consta de 3 ECTS prácticos que consistirán en la realización de 4 prácticas de
+laboratorio. La realización de estas 4 prácticas es requisito indispensable para aprobar esta parte de la asignatura. 
+ 
+Las prácticas de laboratorio se realizarán en sesiones de 3 horas cada una, a lo largo de todo el cuatrimestre. Habrá dos
+franjas horarias para la realización de dichas prácticas ubicadas los martes de 15:00 a 18:00 h y los viernes de 11:30 a 14:30
+h. Al comienzo del curso, el alumnado será informado de la franja horaria que tendrá asignada cada semana para la
+realización de las prácticas. 
+ 
+Para la realización de las prácticas de laboratorio será imprescindible que cada estudiante traiga una bata de laboratorio, y
+ropa y calzado adecuado, de manera que las piernas estén perfectamente cubiertas. Cada estudiante debe disponer de un
+cuaderno de prácticas y de calculadora.
+Actividades a desarrollar en otro idioma
+Actividades a desarrollar en inglés (0,45 ECTS): el material docente de una de las prácticas de laboratorio estará en inglés, y
+cada estudiante deberá presentar parte del informe correspondiente en el mismo idioma. Dicha práctica será guiada
+conjuntamente por todo el profesorado que imparte la asignatura.
+
+10. Resultados de Aprendizaje
+Tras haber cursado la asignatura el alumnado debe haber conseguido:
+- Aprender a comprender y aplicar los conocimientos básicos de la química y sus aplicaciones en la ingeniería
+- Resolver problemas con iniciativa
+- Saber razonar de manera crítica
+- Ser capaz de comunicar y transmitir conocimientos
+- Ser capaz de trabajar en un entorno multilingüe y multidisciplinar
+Asimismo, tras cursar la asignatura, el alumnado debe:
+- Saber resolver problemas básicos de estequiometría
+- Saber formular y nombrar compuestos químicos básicos
+- Conocer los conceptos básicos de la estructura del átomo
+- Saber determinar configuraciones electrónicas, así como analizar la variación de las propiedades periódicas de los
+elementos
+- Conocer los tipos de enlace químico y las representaciones de las estructuras de Lewis
+- Conocer las principales diferencias y las condiciones bajo las que se producen las transiciones entre los diferentes estados
+de agregación de la materia o su coexistencia (gases, líquidos, sólidos)
+- Saber calcular y manejar concentraciones de disoluciones
+- Saber razonar cuestiones básicas y resolver problemas relacionados con la termoquímica/termodinámica y la cinética de
+reacciones químicas
+- Saber razonar cuestiones básicas y resolver problemas relacionados con el equilibrio químico, equilibrio ácido-base,
+equilibrio de solubilidad, valoraciones redox y pilas electroquímicas
+
+Asignatura: Fundamentos Matemáticos
+- Departamento/s:
+Matemáticas, Estadística e Investigación Operativa
+Análisis Matemático
+- Área/s de conocimiento:
+Álgebra
+Análisis Matemático
+Geometría y Topología
+Matemática Aplicada
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Módulo I
+- Profesores: Josué Remedios Gómez (Teoría, problemas/prácticas) y Domingo Chinea Miranda (prácticas).
+- Temas:
+1.  ÁLGEBRA MATRICIAL. SISTEMAS DE ECUACIONES LINEALES.
+2.  DIAGONALIZACIÓN DE MATRICES.
+3. VECTORES EN EL PLANO Y EN EL ESPACIO TRIDIMENSIONAL.
+4. GEOMETRÍA  DEL PLANO.
+5. GEOMETRÍA DEL ESPACIO TRIDIMENSIONAL.
+Módulo II
+- Profesores: Soledad Pérez Rodríguez (Teoría, problemas/prácticas), Mateo Jiménez Páiz y Francisco Pérez Acosta
+(prácticas).
+- Temas:
+6. NÚMEROS REALES Y NÚMEROS COMPLEJOS.
+7. CÁLCULO DIFERENCIAL EN UNA VARIABLE.
+8. CÁLCULO INTEGRAL EN UNA VARIABLE.
+9. ECUACIONES DIFERENCIALES.
+Actividades a desarrollar en otro idioma
+ Consulta de bibliografía (o material auxiliar) básica en lengua inglesa relacionada con el temario.
+
+10. Resultados de Aprendizaje
+Los resultados de aprendizaje que se pretende obtenga el alumno son: 
+ 
+- Analiza y resuelve sistemas de ecuaciones lineales. Sabe discutir sobre su naturaleza. 
+- Maneja y utiliza adecuadamente las operaciones fundamentales del álgebra matricial. 
+- Calcula los valores y espacios propios de una matriz. Los aplica en la discusión relativa a la diagonalización de dicha 
+matriz. 
+- Maneja el álgebra y la geometría vectorial en el plano y en el espacio tridimensional. 
+- Maneja mediante las ecuaciones necesarias objetos geométricos elementales en el plano y en el espacio tridimensional. 
+- Reconoce las distintas cónicas. Sabe describir sus principales elementos.
+
+
+- Maneja adecuadamente números, ecuaciones e inecuaciones. 
+- Maneja los números complejos y su representación geométrica. 
+- Analiza y dibuja funciones, deduce propiedades de una función a partir de su gráfica. 
+- Comprende y trabaja intuitiva, geométrica y formalmente con las nociones de límite, derivada e integral. 
+- Calcula derivadas de funciones mediante la regla de la cadena. 
+- Calcula y estudia extremos de funciones. 
+- Calcula integrales de funciones. 
+- Resuelve problemas que impliquen el planteamiento de integrales (longitudes, áreas, volúmenes, etc.) 
+- Sabe distinguir y resolver las ecuaciones diferenciales: de variables separadas, homogéneas, lineales y exactas.
+
+Asignatura: Física I
+- Departamento/s:
+Física
+- Área/s de conocimiento:
+Física Aplicada
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Tema 0.-  Conocimientos básicos. 
+0.1) Sistemas de unidades; 
+0.2) Algebra vectorial; 
+0.3) Teoría de errores. 
+ 
+Tema 1.-  Cinemática de la partícula. 
+1.1) Posición, velocidad y aceleración de una partícula; 
+1.2) Componentes intrínsecas de la velocidad y la aceleración; 
+1.3) Clasificación de los movimientos; 
+1.4) Movimiento rectilíneo; 
+1.5) Movimiento circular; 
+1.6) Tiro parabólico. 
+ 
+Tema 2.- Dinámica de una partícula. 
+2.1) Momento lineal y principio de conservación; 
+2.2) Leyes de Newton; 
+2.3) Momento angular y principio de conservación; 
+2.4) Trabajo y energía; 
+2.5) Fuerzas conservativas y energía potencial; 
+2.6) Principio de conservación de la energía; 
+2.7) Fuerza de rozamiento por deslizamiento. 
+ 
+Tema 3.- Dinámica de un sistema de partículas. 
+3.1) Momento lineal, momento angular, energía cinética y trabajo en sistemas de partículas; 
+3.2) Centro de masas y movimiento del centro de masas; 
+3.3) Principios de conservación. 
+ 
+Tema 4.- Sistemas de fuerzas. 
+4.1) Momento de una fuerza respecto de un punto y respecto de un eje;
+
+
+4.2) Resultante y momento de un sistema de fuerzas; 
+4.3) Par de fuerzas; 
+4.4) Reducción de un sistema de fuerzas; 
+4.5) Ecuación del eje central y torsor de un sistema de fuerzas. 
+ 
+Tema 5.- Introducción a la Termodinámica. 
+5.1) Conceptos básicos; 
+5.2) Temperatura y escalas de temperatura; 
+5.3) Trabajo y calor. Primer principio de la Termodinámica; 
+5.4) Sistemas PVT.  Gases ideales; 
+5.5) Trabajo en sistemas PVT; 
+5.6) Capacidades caloríficas. Entalpía; 
+5.7) Introducción al Segundo principio. 
+ 
+Tema 6.- Fenómenos ondulatorios. 
+6.1) Descripción matemática de la propagación una perturbación; 
+6.2) Ondas armónicas; 
+6.3) Velocidad de propagación de las ondas; 
+6.4) Ecuación diferencial del movimiento ondulatorio; 
+6.5) Energía e intensidad de las ondas armónicas; 
+6.6) Interferencia de ondas armónicas; 
+6.7) Ondas estacionarias; 
+6.8) Efecto Doppler. 
+ 
+Prácticas de laboratorio. 
+Experimentos básicos de mecánica, ondas y termodinámica.
+Actividades a desarrollar en otro idioma
+Los estudiantes realizarán en inglés un trabajo tutorizado en grupo en el que se analizarán los fundamentos, desarrollo,
+resultados y conclusiones de una de las actividades prácticas de la asignatura.
+
+10. Resultados de Aprendizaje
+- Comprensión y dominio de los conceptos, las leyes, teorías y modelos más importantes y generales de mecánica, ondas y 
+termodinámica. 
+ 
+- Adquisición del vocabulario básico en esta materia que permita expresar y comunicar en lenguaje científico, los resultados, 
+los procesos y las ideas. 
+ 
+- Desarrollo de destreza para analizar los problemas con intuición física, así como la de resolverlos, utilizando 
+adecuadamente el lenguaje matemático, interpretando y razonando la coherencia de los resultados obtenidos. 
+ 
+- Adquisición de destreza en el montaje y realización de experiencias prácticas de laboratorio, interpretando y razonando los
+
+
+resultados obtenidos.
+
+Asignatura: Informática
+- Departamento/s:
+Ingeniería Informática y de Sistemas
+- Área/s de conocimiento:
+Ciencia de la Computación e Inteligencia Artificial
+Lenguajes y Sistemas Informáticos
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Profesor: Dionisio Pérez Brito. 
+ 
+Módulo I: Programación 
+ 
+Tema 1 – Introducción a la Informática. 
+Informática, computadora, instrucciones y datos; Representación de la información; Soporte físico; Soporte lógico; y 
+Aplicaciones de la informática. 
+ 
+Tema 2- Sistemas Operativos. 
+Definición, clasificación y funciones; Evolución, interfaz gráfica y línea de comandos; y Sistema Operativo GNU/Linux. 
+ 
+Tema 3 - Elementos de la programación. 
+Datos y tipos de datos; Constantes; Variables; y Expresiones, Operaciones y bifurcaciones. 
+ 
+Tema 4 – Programación estructurada. Bucles. 
+ 
+Tema 5 - Programación modular. Subprogramas, 
+ 
+Tema 6 – Archivos. 
+ 
+Tema 7 - Estructuras de datos. 
+
+
+Profesora: Mª Candelaria  Hernández Goya 
+ 
+Módulo II: Bases de datos : 
+ 
+Tema 8 – Conceptos básicos de bases de datos. 
+(Diseño y gestión de bases de datos) 
+Tema 9 – Implementación de bases de datos a nivel de ofimática.
+Actividades a desarrollar en otro idioma
+Profesor: Dionisio Pérez Brito.
+Realización de un proyecto de programación, de dificultad similar a un ejercicio de examen, el cual se debe defender y
+presentar la correspondiente memoria.
+Profesor: Mª Candelaria Hernández Goya
+Manejo y implementación práctica de bases de datos donde las sentencias que se usan son el inglés, además del uso de
+material complementario en inglés para preparación de los temas y de los ejercicios prácticos.
+
+10. Resultados de Aprendizaje
+La asignatura está orientada a que los alumnos adquieran unos conocimientos básicos sobre informática y adquieran una
+correcta metodología de programación. Se persigue formar profesionales que generen códigos claros, bien estructurados,
+entendibles por un potencial modificador del código y que sean adaptables a futuras necesidades.
+Estos RA conlleva lo siguiente:
+- Utilizar correctamente las aplicaciones Web de comunicación y participación, ofrecidas por la Universidad de La Laguna.
+- Conocer y manejar Sistema Operativos.
+- Diseñar e implementar programas de nivel básico.
+- Diseñar e implementar bases de datos a nivel básico.
+- Utilizar con eficiencia herramientas de búsqueda de información en Internet, gestionando adecuadamente las fuentes
+localizadas.
+- Utilizar aplicaciones informáticas relacionadas con la Ingeniería Industrial.
+
+Asignatura: Física II
+- Departamento/s:
+Física
+- Área/s de conocimiento:
+Física Aplicada
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Profesor:Dr. Ulises R. Rodríguez Mendoza 
+- Temas:
+
+
+TEMA I : CAMPO ELECTROSTÁTICO 
+I.1.- La carga eléctrica. Ley de Coulomb. 
+I.2.- Campo electrostático. Líneas de Fuerzas. Ley de Gauss. 
+I.3.- Potencial y Energía electrostática. 
+I.4.- Propiedades de los conductores en el equilibrio. 
+I.5.- Propiedades de los dieléctricos. 
+I.6.- Condensadores. Energía almacenada en un condensador. 
+TEMA II: CORRIENTE ELÉCTRICA 
+II.1- Magnitudes características. 
+II.2.- Ley de Ohm. 
+II.3.- Concepto de fuerza electromotriz. Generadores. 
+II.4- Leyes de Kirchhoff y análisis de circuitos de corriente continua. 
+TEMA III: CAMPO MAGNÉTICO 
+III.1.- Vector campo magnético. 
+III.2.- Fuerza ejercida por una campo magnético. 
+III.3.- Campo magnético creado por corrientes eléctricas: Ley de Biot-Savart. 
+III.4.- Ley de Ampère. 
+III.5.- Campo magnético en medios materiales. 
+TEMA IV: INDUCCIÓN ELECTROMAGNÉTICA 
+IV.1.- Ley de Faraday-Lenz. 
+IV.2.- Transformadores, generadores y motores. 
+IV.3.-Autoinducción e inducción mutua. Energía almacenada en un inductor. 
+ 
+Profesores: Ulises R. Rodríguez Mendoza  
+TEMA V: ACTIVIDADES PRÁCTICAS 
+V.1 Circuitos de corriente continua: Medida de resistencias. Identificación de resistencias y comprobación con el polímetro. 
+Medidas de tensiones e intensidades de corriente continua. 
+V.2 Medida de resistencia de un conductor con la temperatura. 
+V.3 Fuerza electromotriz inducida. Transformador. 
+Actividades a desarrollar en otro idioma
+Los estudiantes realizarán en inglés un trabajo tutorizado en grupo en el que se analizarán los fundamentos,
+desarrollo, resultados y conclusiones de una de las actividades prácticas de la asignatura.
+
+10. Resultados de Aprendizaje
+Los resultados de aprendizaje que se deben alcanzar son los siguientes: 
+1. Describir las principales leyes del electromagnetismo. 
+2.Explicar los conceptos básicos sobre las leyes generales del electromagnetismo y y su aplicación para la resolución de los
+
+
+problemas propios de la ingeniería. 
+3. Demostrar el manejo de los conceptos básicos sobre las leyes generales del electromagnetismo para resolver problemas
+relacionados con la ingeniería. 
+4. Extraer la información relevante de un montaje experimental para contrastar los resultados con la teoría. 
+5. Interpretar la información disponible sobre un problema de ingeniería para obtener la solución del mismo. 
+6. Justificar los parámetros físicos adecuados para llevar a la práctica un proyecto de ingeniería. 
+7. Trabajar en equipo.
+
+Asignatura: Métodos Estadísticos en la Ingeniería
+- Departamento/s:
+Matemáticas, Estadística e Investigación Operativa
+- Área/s de conocimiento:
+Estadística e Investigación Operativa
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Profesor: Inmaculada Rodríguez Martín 
+ 
+Temas 
+1. Introducción a la Estadística.
+
+
+2. Estadística descriptiva. 
+3. Cálculo de probabilidades. 
+4. Variables aleatorias. Distribuciones discretas y continuas. 
+5. Estimación paramétrica. 
+6. Contraste de hipótesis paramétricos. 
+7. Introducción a la optimización. 
+Actividades a desarrollar en otro idioma
+- Profesor: Inmaculada Rodríguez Martín
+Uso de vocabulario en inglés estadístico técnico en la presentación de los contenidos. Consulta sobre conceptos, técnicas y
+metodologías en libros o páginas web en Inglés.
+
+10. Resultados de Aprendizaje
+Del alumno/a que supera esta asignatura se supone que: 
+ 
+1. Emplea técnicas descriptivas para resumir, clasificar y presentar datos. 
+ 
+2. Es capaz de aplicar los conceptos y resultados fundamentales de la probabilidad. 
+ 
+3. Comprende los conceptos básicos de variable aleatoria e identifica las distribuciones discretas y continuas más
+
+
+importantes. 
+ 
+4. Conoce los principales estimadores puntuales y por intervalos de confianza. 
+ 
+5. Plantea correctamente hipótesis estadísticas y selecciona el procedimiento adecuado para su aceptación o rechazo. 
+ 
+6. Realiza análisis descriptivos de datos, y resuelve problemas de cálculo de probabilidades, estimación y contrastes de
+hipótesis utilizando software informático. 
+ 
+7. Identifica y formula problemas de optimización.
+
+Asignatura: Cálculo
+- Departamento/s:
+Análisis Matemático
+- Área/s de conocimiento:
+Análisis Matemático
+Matemática Aplicada
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Temas (epígrafes):
+Tema 1. Cálculo diferencial en varias variables.
+Funciones de 2 y 3 variables. Curvas y superficies de nivel. Cónicas y cuádricas. Límites y Nociones de continuidad. Curvas
+y superficies de nivel. Derivadas parciales. Diferencial total. Regla de la cadena. Derivación implícita. Derivadas
+direccionales, gradiente y planos tangentes. Polinomio de Taylor. Extremos de funciones de dos variables. Extremos
+condicionados. Multiplicadores de Lagrange.
+Tema 2. Cálculo integral en varias variables.
+Integral doble sobre rectángulos e interpretación como volumen bajo una superficie. Propiedades de la integral doble.
+Integrales iteradas. Teorema de Fubini. Integral doble sobre recintos más generales (Recintos tipo I y II). Cambios de
+variables (cambios lineales y a polares). Aplicaciones: Valor medio, cálculo de centros de gravedad y momentos de inercia,
+área de una superficie. Integral triple sobre prismas rectos. Integrales iteradas. Teorema de Fubini. Integral triple en recintos
+más generales. Cambios de variable en integral triple (coordenadas cilíndricas y esféricas). Aplicaciones de la integral triple.
+Tema 3. Integrales curvilíneas y de superficie.
+Curvas y sus parametrizaciones en el plano y en el espacio. Integral de Línea de primera especie. Aplicaciones a cálculo de
+longitudes, masas, centros de gravedad, momentos de inercia. Campos vectoriales en el plano y en el espacio. Campos
+conservativos, caracterizaciones. Integral de Línea de segunda especie y su interpretación como Trabajo realizado por un
+campo. Teorema fundamental de las integrales de línea. Principio de conservación de la Energía. Teorema de Green en el
+plano. Aplicaciones al cálculo de áreas. Integrales de superficie. Teorema de Stokes.
+Tema 4. Resolución numérica de ecuaciones no-lineales.
+Introducción. Teorema de Bolzano. Método de Bisección y su convergencia. Método de Newton-Raphson y su convergencia.
+Actividades a desarrollar en otro idioma
+- Entrega de trabajos relacionados con la resolución de problemas aplicados planteados en lengua inglesa.
+- Consulta de bibliografía básica en lengua inglesa relacionada con el temario.
+
+10. Resultados de Aprendizaje
+Los resultados de aprendizaje que se pretende que consiga el alumno son:
+1. Resolver problemas matemáticos que pueden plantearse en Ingeniería.
+2. Saber aplicar los conocimientos adquiridos de cálculo diferencial e integral en varias variables y el cálculo vectorial.
+3. Utilizar métodos numéricos en la resolución de algunos problemas matemáticos que se le plantean.
+4. Conocer el uso de herramientas de cálculo simbólico y numérico.
+5. Poseer habilidades propias del pensamiento científico-matemático, que le permitan preguntar y responder a determinadas
+cuestiones matemáticas.
+6. Tener destreza para manejar el lenguaje matemático; en particular, el lenguaje simbólico y formal.
+
+Asignatura: Expresión Gráfica y diseño asistido por ordenador
+- Departamento/s:
+Técnicas y Proyectos en Ingeniería y Arquitectura
+- Área/s de conocimiento:
+Expresión Gráfica Arquitectónica
+Expresión Gráfica en la Ingeniería
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Profesorado: 
+María Montserrat Acosta González
+Néstor Manuel Santana Hernández
+- Contenidos teóricos y prácticos:
+TEMA 1. INTRODUCCIÓN A LA EXPRESIÓN GRÁFICA
+Definición de Expresión Gráfica. Historia de la Expresión Gráfica. Expresión Gráfica en Ingeniería. Evolucion de las
+herramientas de Expresión Gráfica.
+TEMA 2. NORMALIZACIÓN Y DIBUJO INDUSTRIAL
+Generalidades sobre normalización. Tipos de normas. Organizaciones de normalización. Normas de dibujo. Tipos de dibujos
+técnicos. El cuadro de rotulación. Formatos.Escritura. Escalas. Lista de elementos. Plegado de planos.
+TEMA 3. REPRESENTACIÓN NORMALIZADA
+Proyección ortogonal. Sistemas de vistas: Vistas Diédricas. Sistemas europeo y americano. Criterios para la selección de
+vistas. Tipos de vistas. Tipos de líneas. Cortes y secciones. Convencionalismos más frecuentes: partes contiguas,
+intersecciones, extremos y aberturas cuadradas, piezas simétricas, vistas interrumpidas, elementos repetitivos, detalles,
+otros convenios.
+TEMA 4. ACOTACIÓN NORMALIZADA
+Necesidad de acotar los dibujos. Tipos de acotación. Principios generales. Elementos de acotación.Métodos de acotación.
+Símbolos. Disposición de las cotas. Indicaciones especiales (radios, elementos equidistantes, etc.). Otras indicaciones (cotas
+perdidas, especificaciones particulares, etc.). Chaveteros y entalladuras. Conicidad e inclinación. Perfiles. Metodología
+general de acotación (ejemplo).
+TEMA 5. CONJUNTOS Y DESPIECES
+Definiciones. Dibujo de conjunto. Referencia de los elementos. Lista de piezas. Designación normalizada de materiales.
+Dibujo de despiece. Numeración de planos. Ejemplos.
+TEMA 6. INTRODUCCIÓN A LOS SISTEMAS DE REPRESENTACIÓN.
+TEMA 7. SISTEMAS DE REPRESENTACIÓN: PLANOS ACOTADOS. APLICACIONES.
+TEMA 8. SISTEMAS DE REPRESENTACIÓN: PERSPECTIVA AXONOMÉTRICAS. APLICACIONES.
+TEMA 9. ESQUEMAS Y DIAGRAMAS
+Simplificación de dibujos. Símbolos esquemáticos. Diagramas: de proceso, de flujo, de ingeniería. Normas de dibujo en los
+diagramas de flujo e ingeniería. Esquemas básicos de instalaciones de ingeniería.
+TEMA 10. PLANOS DE UN PROYECTO TÉCNICO
+TEMA 11. GEOMETRÍA
+TEMA 12. SISTEMAS DE REPRESENTACIÓN: SISTEMA DIÉDRICO. APLICACIONES.
+TEMA 13. NUEVAS TENDENCIAS Y PRESENTACIONES GRÁFICAS MULTIMEDIA
+Actividades a desarrollar en otro idioma
+- Profesorado: 
+María Montserrat Acosta González 
+Néstor Manuel Santana Hernández 
+ 
+
+
+Lecturas y trabajo sobre materiales de consulta (textos varios, artículos, vocabulario u otros) en inglés, relacionados con los
+contenidos teóricos de la asignatura, como apoyo para poder desarrollar la expresión gráfica de forma adecuada.
+
+10. Resultados de Aprendizaje
+Después de haber cursado y superado la asignatura el alumnado:
+- Desarrollará la visión espacial
+- Dominara el conocimiento y manejo de las normas de aplicación en el dibujo industrial
+- Dominara el conocimiento de las técnicas de representación gráfica de objetos, tanto por métodos tradicionales de
+geometría métrica y geometría descriptiva, como mediante las aplicaciones de diseño asistido por ordenador.
+- Desarrollará la habilidad y destreza en el manejo de herramientas manuales e informáticas de dibujo.
+- Logrará resolver con iniciativa, toma de decisiones, creatividad, razonamiento crítico, así como comunicar y transmitir
+conocimientos, habilidades y destrezas en el campo de la ingeniería industrial.
+-Desarrollará la habilidad y destreza para la toma de decisiones en el campo de la ingeniería industrial mediante el estudio de
+datos obtenidos por la combinación del lenguaje gráfico y lenguaje escrito.
+-Habrá adquirido la habilidad y destreza para reflejar de forma correcta decisiones en el campo de la ingeniería industrial,
+mediante el estudio de datos obtenidos por la combinación del lenguaje gráfico y lenguaje escrito.
+- Habrá adquirido la capacidad de trabajo en equipo, de diseñar y de desarrollar proyectos sencillos.
+
+Asignatura: Organización y Gestión Empresarial
+- Departamento/s:
+Dirección de Empresas e Historia Económica
+- Área/s de conocimiento:
+Organización de Empresas
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+MÓDULO I. LA EMPRESA Y SU ENTORNO
+TEMA 1. INTRODUCCIÓN A LA ECONOMÍA DE LA EMPRESA
+1.1 La economía y los sistemas económicos. El funcionamiento del mercado
+1.2 Concepto y tipos de empresa
+1.3 El papel del empresario/a
+TEMA 2. EL ENTORNO EMPRESARIAL
+2.1 Concepto y tipos de entorno
+2.2 Análisis sectorial
+2.3 Responsabilidad social de la empresa
+TEMA 3. LA DIRECCIÓN DE LA EMPRESA Y LOS OBJETIVOS
+3.1 Concepto y tipos de objetivos
+3.2 La toma de decisiones
+3.3 Funciones gerenciales de la empresa
+3.4 Diseños organizativos
+MÓDULO II. SUBSISTEMAS EMPRESARIALES
+TEMA 4. SUBSISTEMA FINANCIERO
+4.1 Patrimonio empresarial y equilibrio económico-financiero
+4.2 Las fuentes de financiación
+4.3 Métodos de selección de inversiones
+4.4 Resultados y riesgo económico-financieros
+TEMA 5. LA FUNCIÓN DE PRODUCCIÓN EN LA EMPRESA
+5.1 El sistema de producción: concepto y objetivos
+5.2 Decisiones estratégicas del subsistema de producción
+5.3 Decisiones tácticas y operativas del subsistema de producción
+TEMA 6. LA GESTIÓN COMERCIAL EN LA EMPRESA
+6.1 El mercado y el marketing
+6.2 El marketing estratégico
+6.3 El marketing operativo
+
+
+Actividades a desarrollar en otro idioma
+En cumplimiento del Decreto 168/2008 del Gobierno de Canarias para el 5% de créditos a impartir en una segunda lengua
+en titulaciones oficiales:
+A propuesta del profesorado responsable, el alumnado deberá realizar alguna de las siguientes actividades(1) en inglés:
+a) Visualización de un vídeo con material didáctico relacionado con alguno de los contenidos del temario
+b) Lectura y análisis de un artículo de actualidad y/o caso práctico
+c) Resolución de ejercicios prácticos
+d) Asistencia a un seminario impartido por algún profesor visitante (Erasmus Teacher Exchange Program) o profesional
+experto en alguno de los contenidos del programa teórico
+La evaluación de estos contenidos se ralizará de la misma forma que el resto de contenidos de la asignatura, en los términos
+detallados en el apartado 9 de esta Guía Docente.
+(1)El tipo de actividad y fecha de realización se comunicarán con la suficiente antelación
+
+10. Resultados de Aprendizaje
+Como resultado de aprendizaje de esta asignatura se pretende que el alumnado adquiera,por un lado, los siguientes 
+conocimientos (Saber): 
+ 
+-Conocer adecuadamente el contexto económico y empresarial. 
+-Conocer e integrar las nociones esenciales en la organización y gestión empresarial. 
+-Conocer las estructuras y diferencias entre las distintas tipologías de empresas. 
+-Identificar y conocer las funciones que desempeñan las empresas en el campo financiero, productivo, comercial y de 
+dirección y gestión. 
+ 
+Y, por otro lado, le capacite en las siguientes destrezas (Saber hacer): 
+
+
+-Detectar, desarrollar y conceptualizar ideas empresariales innovadoras y vinculadas a ventajas competitivas. 
+-Comprender y analizar las principales relaciones existentes entre las principales variables económicas y empresariales. 
+-Conocer, comprender y aplicar técnicas de análisis multicriterio para la toma de decisiones en el campo financiero,
+productivo o comercial de la empresa. 
+-Conocer, comprender y aplicar técnicas de investigación de mercados. 
+-Diseñar, organizar y gestionar un proyecto o plan de empresa.
+
+Asignatura: Ingeniería Fluidomecánica
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Profesor: Luis Antonio González Mendoza 
+- Temas: 
+TEMA 1. - Introducción 
+Fenómenos de flujo de fluidos. Conceptos fundamentales. Fluidos newtonianos y no newtonianos. Tipos de flujo. 
+Características generales. 
+TEMA 2.- Circulación de fluidos en régimen turbulento 
+Distribución de velocidad en régimen turbulento. Ecuaciones de continuidad y movimiento. Balances macroscópicos de 
+materia y energía. Balance de energía mecánica: ecuación de Bernouilli. 
+TEMA 3.- Perdida de energía por rozamiento. Cálculo de potencia necesaria para el flujo de fluidos incompresible. 
+Disipación de energía por fricción y turbulencia. Caracterización fenomenológica: ecuación de Fanning. Perdidas menores. 
+Caída de presión en un fluido incompresible. 
+TEMA 4.- Cálculo de potencia necesaria para el flujo de fluidos compresibles. 
+Ecuaciones de movimiento para fluidos compresibles: caída de presión en un fluido compresible. 
+TEMA 5.- Equipo empleado en el transporte de fluidos I 
+Tuberías. Accesorios. Disposición de tuberías: tuberías en serie y en paralelo, redes de tuberías. Válvulas. Características de 
+válvulas. Software EPANET 2.0 
+TEMA 6.- Equipo empleado en el transporte de fluidos II. Bombas y compresores. 
+Bombas. Clases y características. Bombas de desplazamiento positivo. Bomba centrífuga. Ventiladores soplantes y 
+compresores: clasificación y características. Software 
+TEMA 7.- Equipo empleado en el transporte de fluidos III. Medidores de caudal 
+Medidas de caudal. Medidores dinámicos: diafragma, boquillas y venturímetros. Tubo de Pitot. Medidores de Sección 
+variable: rotámetros. Medida de caudales en sistemas abiertos. Otros métodos de medida de caudales. 
+TEMA 8.- Caracterización de partículas sólidas.
+
+
+Caracterización de sólidos granulares: tamaño y forma de partículas. Superficie específica y porosidad. 
+TEMA 9.- Interacción sólido-fluido. 
+Movimiento de partículas en el seno de un fluido. Coeficiente de rozamiento y velocidad límite de caída. 
+TEMA 10.- Sedimentación y centrifugación. 
+Sedimentación intermitente. Sedimentación continua: cálculo del área y la altura de un sedimentador continuo. Movimiento
+de partículas sólidas por acción d e una fuerza centrífuga. Filtración centrífuga. Ciclones. 
+TEMA 11.- Circulación de un fluido a través de un lecho estático de partículas. 
+Perdida de carga en la circulación de un fluido a través de un lecho poroso estático: ecuaciones fundamentales. Circulación
+de dos fluidos en contracorriente. Velocidad de inundación 
+TEMA 12.- Circulación de un fluido a través de un lecho de partículas en movimiento. 
+Fluidización. Velocidad mínima de fluidización. Intervalo de existencia del lecho fluidizado. Elutriación y transporte neumático 
+ 
+ 
+- Profesoras:  
+- Temas: 
+PRÁCTICAS DE LABORATORIO: 
+La asignatura consta de 1,5 ECTS prácticos que consistirán en la realización de tres de las siguientes prácticas de
+laboratorio: 
+- Determinación de parámetros de Válvulas 
+- Estudio de Curvas Características en Bombas 
+- Medidas de caudal en circulación de gases 
+- Pérdida de Carga en Tubos y Accesorios 
+ 
+ 
+Actividades a desarrollar en otro idioma
+- Profesor: Luis Antonio González Mendoza
+Un 5% de la actividad docente será en inglés, concretamente el resumen de los aparatos de medida de caudal del Tema 7,
+- Búsqueda de información en inglés. El estudiante deberá buscar información sobre equipos de medida de caudal, deberán
+realizar un resumen por escrito de las mismas y una presentación del informe. 
+- Las relacionadas con el uso del software y otras que estarán en función del número de estudiantes de programas de
+intercambio que no dominen el castellano
+
+10. Resultados de Aprendizaje
+Como asignatura del módulo común a la rama industrial, su objetivo principal es el de adquirir los conocimientos de los 
+principios básicos de la mecánica de fluidos y su aplicación a la resolución de problemas en el campo de la ingeniería: 
+Conceptos fundamentales de cinemática y dinámica de fluidos. Cálculo del flujo en conducciones de fluidos compresibles e 
+incompresibles. Estudio y diseño de equipos y accesorios en el transporte de fluidos: tuberías, válvulas, bombas, 
+compresores. Conceptos de la interacción sólido-fluido y cálculo de distintas aplicaciones como sedimentación, circulación de 
+fluidos a través de lechos estáticos/fijos de partículas y filtración. 
+ 
+Se han usado los paquetes informáticos de utilidad en el diseño industrial de equipos implicados en la circulación de fluidos 
+como Epanet, Unisim y Tahoe Soft, que ha a la postre resultan un valor añadido a los resultados anteriores. 
+ 
+La consecución por parte del alumno de estos resultados de aprendizaje le permite alcanzar en gran medida las 
+competencias señaladas en el Apartado 5.
+
+Asignatura: Química Orgánica
+- Departamento/s:
+Química Orgánica
+- Área/s de conocimiento:
+Química Orgánica
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Contenidos teóricos. José Luis Ravelo Socas. 
+Tema 1. Introducción. Estructura y reactividad en Química Orgánica. 
+Tema 2. Alcanos y cicloalcanos. Análisis conformacional. Reacciones de los Alcanos. 
+Tema 3. Estereoquímica. 
+Tema 4. Haloalcanos. Reacciones de Sustitución Nucleofílica y Eliminación. 
+Tema 5. Alcoholes, éteres y epóxidos. Reactividad.. 
+Tema 6. Alquenos y alquinos. Reacciones de adición electrofílica. 
+Tema 7. Compuestos aromáticos. Sustitución electrofílica aromática. 
+Tema 8. Aldehídos y cetonas. Reacciones de adición nucleófila. 
+Tema 9. Ácidos carboxílicos y sus derivados. Reacciones de sustitución nucleofílica en el acilo. 
+Tema 10. Compuestos nitrogenados: aminas, sales de amonio y sales de diazonio. 
+ 
+- Contenidos prácticos. Carmen María Rodríguez Pérez (Coordinadora) y otro profesorado asignado por el 
+Departamento para impartir la docencia práctica, que podría variar según las necesidades docentes. 
+1. Reconocimiento de funciones orgánicas 
+2. Preparación de acetato de isoamilo 
+3. Preparación de acetanilida
+
+
+4. Separación de una mezcla de tres compuestos orgánicos 
+5. Síntesis de polímeros: Nylon 6,6 
+6. Extracción del limoneno
+Actividades a desarrollar en otro idioma
+- Prácticas. Carmen María Rodríguez Pérez.
+El guion de una de las prácticas estará en inglés, por lo que el alumnado deberá responder al cuestionario correspondiente
+en este idioma.
+
+10. Resultados de Aprendizaje
+El alumnado deberá ser capaz de:
+- reconocer una sustancia orgánica y nombrarla incluyendo la esteroquímica
+- identificar los puntos reactivos y la reactividad general de la sustancia.
+- reconocer las distintas reacciones incluídas en el temario y de indicar el resultado de las mismas.
+- manipular, de forma segura, las sustancias orgánicas.
+- llevar a cabo las prácticas de laboratorio con orden, limpieza y método
+- aplicar los conocimientos a la resolución de problemas tipo dentro del contexto de la Química Orgánica
+- aplicar el método científico a problemas reales relacionados con la Química Orgánica
+
+Asignatura: Elasticidad y Resistencia de Materiales
+- Departamento/s:
+Física
+Ingeniería Industrial
+- Área/s de conocimiento:
+Física Aplicada
+Ingeniería Mecánica
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Tema 1. Introducción.  
+Métodos de la resistencia de materiales. Sistema real y esquema de cálculo. Fuerzas exteriores e interiores. 
+Desplazamientos, deformaciones y tensiones. Ley de Hooke. Principio de superposición. Sistemas isoestáticos e 
+hiperestáticos. El ensayo de tracción y compresión. Diagrama de esfuerzos, Propiedades mecánicas esenciales de 
+materiales. Coeficiente de seguridad. 
+ 
+Tema 2. Tracción y compresión. 
+Fuerzas interiores y tensiones que se desarrollan en las secciones transversales de una barra a tracción y compresión. 
+Desplazamientos y deformaciones en la tracción. Sistemas estáticamente determinados (isoestáticos) y estáticamente 
+indeterminados (hiperestáticos). El diagrama de esfuerzo normal. Casos hiperestáticos en la tracción. Análisis térmico. 
+ 
+Tema 3. Torsión.  
+Deformación angular y tensión de corte. Desplazamientos, deformaciones y tensiones en la torsión de barras cilíndricas 
+sólidas y huecas. Diagrama de momento torsor. 
+ 
+Tema 4. Flexión 1.  
+Fuerzas interiores que ocurren en las secciones transversales de las barras a flexión. Diagrama de momento flector, esfuerzo
+
+
+normal y esfuerzo de corte. Diagramas en casos de carga puntual, carga uniformemente distribuida y momento flector
+puntual.  
+ 
+Tema 5. Flexión 2.  
+Tensiones en el caso de flexión transversal. Desplazamientos en la flexión. Ecuación general de la línea elástica. Resolución
+por integración de problemas simples. Flexión transversal. Tensiones de corte en vigas compuestas. 
+ 
+Tema 6. Bifurcación del equilibrio en la compresión de vigas. 
+Pandeo. Ecuación de Euler. Carga crítica. Dependencia de la carga crítica con las condiciones de contorno. 
+ 
+Tema 7. Teoría de los estados límites o fallos de componentes.  
+Estado de tensión en un punto. Relación entre tensiones y deformaciones en problemas 3D. Tensiones principales.
+Tensiones principales en el problema plano. Rotación de tensiones en el plano. Energía de deformación elástica. Energía de
+deformación por cambio de forma. Tensión equivalente de Von Mises. 
+ 
+ 
+ 
+ 
+Práctica 1. Verificación de una estructura de barras planas. 
+Practica 2. Obtención de los módulos elásticos de vigas de distintos perfiles y materiales a través de la medición de los
+desplazamientos ante cargas conocidas. 
+Practica 3. Medida de los desplazamientos transversales en vigas. Comprobación teórica. 
+Practica 4. Medida experimental de la carga crítica de pandeo de Euler. 
+Práctica 5. Estudio de torsión.
+Actividades a desarrollar en otro idioma
+Los guiones de las prácticas 3 y 4 estarán desarrollados en inglés y el informe deberá estar presentado en el mismo idioma.
+
+10. Resultados de Aprendizaje
+El alumno deberá adquirir unas bases mínimas para la resolución de problemas básicos. Éstas son: 
+1. Dibujar correctamente el diagrama de cuerpo libre de sistemas sencillos
+
+
+2. Calcular las tensiones inducidas por variaciones de temperatura 
+3. Dimensionar ejes en sistemas de transmisión de potencia y energía torsional 
+4. Calcular tensiones de corte máximos y esfuerzos de flexión máximos en vigas simples 
+5. Calcular las cargas críticas en columnas para evitar el pandeo
+
+Asignatura: Automatización y Control Industrial
+- Departamento/s:
+Ingeniería Informática y de Sistemas
+- Área/s de conocimiento:
+Arquitectura y Tecnología de Computadores
+Ingeniería de Sistemas y Automática
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Módulo I: Introducción a la Automatización de Procesos Industriales 
+- Profesores: José Manuel González Cava, Carlos A. Martín Galán. 
+TEMA 1. INTRODUCCIÓN A LOS SISTEMAS DE AUTOMATIZACIÓN Y CONTROL INDUSTRIAL 
+En este bloque se introducen los conceptos fundamentales relativos a la automatización y al control de procesos industriales 
+para dar al alumnado una visión general del módulo. 
+TEMA 2. DESCRIPCIÓN DE LA PARTE OPERATIVA 
+Parte Operativa. Sensores y actuadores. Características generales. Ejemplos de su utilización. 
+TEMA 3. DESCRIPCIÓN DE LA PARTE DE MANDO: EL AUTÓMATA PROGRAMABLE 
+Parte de Mando. Definición de autómata programable. Características principales. Tipos de autómatas programables. 
+Autómatas de Siemens. Arquitectura interna de un autómata programable: unidad central de proceso, memorias, interfaz de 
+entrada/salida, alimentación. Modos de operación de un autómata programable. Ciclo de funcionamiento. 
+TEMA 4. PROGRAMACIÓN DE AUTÓMATAS PROGRAMABLES EN EL LENGUAJE DE ESQUEMA DE CONTACTOS 
+(KOP) 
+Introducción a los lenguajes de programación de autómatas programables. TIA Portal y Factory IO. Elementos básicos de 
+KOP: contactos, bobinas y cuadros. Temporizadores y contadores. Reglas para construir segmentos en serie y en paralelo. 
+Estrategias de programación. Ejemplos de programación.
+
+
+ 
+Módulo II: Introducción a la Teoría del Control 
+- Profesor: Santiago Torres Álvarez. 
+TEMA 5: INTRODUCCIÓN AL CONTROL DE SISTEMAS 
+Revisión histórica. Componentes de un sistema de control. Conceptos de realimentación 
+TEMA 6: MODELADO DE SISTEMAS CONTINUOS 
+Modelado de sistemas. Linealización de Modelos. Transformada de Laplace. Función de transferencia. Diagrama de bloques. 
+TEMA 7: ANÁLISIS DE SISTEMAS CONTINUOS 
+Respuesta Temporal. Respuesta Frecuencial. Estudio de la Estabilidad 
+TEMA 8: TÉCNICAS BÁSICAS DE CONTROL DE SISTEMAS 
+Estructura de control. Controlador Todo-Nada. Controlador PID. 
+TEMA 9: HERRAMIENTA INFORMÁTICA 
+Representación de los sistemas. Simplificación de diagramas de bloques. Obtención de la respuesta temporal. Obtención de
+la respuesta Frecuencial. Obtención de los parámetros de estabilidad.
+Actividades a desarrollar en otro idioma
+Profesores: Todos
+•
+Consulta bibliográfica.
+•
+Manejo de herramienta informática en inglés.
+Estas actividades serán evaluadas de manera integrada dentro de las actividades de evaluación reflejadas en esta guía
+docente.
+
+10. Resultados de Aprendizaje
+Los resultados esperados de aprendizaje son:
+•
+Conocer la automatización de procesos industriales y tener las habilidades y destrezas básicas para su aplicación.
+•
+Conocer los fundamentos de automatismos y métodos de control.
+•
+Estar familiarizado con el uso de un autómata programable para la automatización de un proceso industrial, incluyendo
+los elementos de instrumentación.
+•
+Resolver un problema de automatización empleando el lenguaje de esquema de contactos (KOP).
+•
+Conocer los conceptos del control de procesos industriales: función de transferencia, respuesta temporal y frecuencial,
+estabilidad.
+•
+Tener la habilidad de obtener la función de transferencia de un sistema a partir del sistema de ecuaciones diferenciales
+que lo modelan.
+•
+Tener la habilidad de aplicar e interpretar distintos métodos de determinación de la estabilidad de un sistema
+realimentado: Tabla de Routh, Lugar de las Raíces y Nyquist.
+•
+Conocer el controlador PID y sus principales características.
+•
+Tener la habilidad para manejar aplicación informática de cálculo numérico y simulación, y utilizarla para la resolución de
+problemas sencillos de control de sistemas industriales.
+•
+De manera básica, conocer y tener la habilidad de aplicar tecnologías medioambientales y de sostenibilidad.
+•
+De manera básica, tener la capacidad de analizar y valorar el impacto social y medioambiental de las soluciones
+técnicas.
+•
+De manera básica, tener la capacidad de trabajar en un entorno multilingüe y multidisciplinar.
+
+Asignatura: Fundamentos de Ingeniería Electrónica
+- Departamento/s:
+Ingeniería Industrial
+- Área/s de conocimiento:
+Tecnología Electrónica
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+PROGRAMA DE TEORÍA:
+- Profesor: Silvestre Rodríguez Pérez.
+BLOQUE 0. INTRODUCCIÓN Y SIMULACIÓN DE CIRCUITOS.
+Tema 0.1.- Introducción: teoremas de Thevenin y Norton.
+Tema 0.2.- Simulador de circuitos electrónicos.
+BLOQUE 1. ELECTRÓNICA ANALÓGICA.
+Tema 1.- El diodo semiconductor.
+Tema 2.- El transistor bipolar de unión.
+Tema 3.- El transistor de efecto campo.
+Tema 4.- El amplificador operacional.
+BLOQUE 2. ELECTRÓNICA DIGITAL.
+Tema 5.- Representación numérica y álgebra de Boole.
+Tema 6.- Funciones lógicas y circuitos combinacionales.
+Tema 7.- Introducción a las circuitos secuenciales.
+PROGRAMA DE PRÁCTICAS:
+- Profesores: Silvestre Rodríguez Pérez y Beatriz Rodríguez Mendoza.
+Práctica 0. Instrumentación electrónica básica. Circuitos de continua.
+Práctica 1. Circuitos con diodos.
+Práctica 2. Circuitos basados en transistores BJT.
+Práctica 3. Sistemas electrónicos digitales y/o amplificadores operacionales.
+Actividades a desarrollar en otro idioma
+
+
+* Interpretación de los "datasheet" u hojas de características en inglés de dispositivos electrónicos.
+* Manual de uso y tutorial en inglés del simulador/es de circuitos el ectrónicos.
+* Redacción en inglés de un porcentaje del informe o informes de los trabajos y/o entregables.
+Su evaluación se especifica en el apartado 9 (sistema de evaluación y calificación) de esta guía docente. Concretamente, su
+evaluación se incluye en el criterio C (Informe y/o memoria de trabajos en grupo y/o proyectos) de la evaluación continua, y
+en el criterio A (realización de pruebas de teoría y problemas) de la evaluación única.
+
+10. Resultados de Aprendizaje
+El alumnado, para superar esta asignatura, deberá ser capaz de demostrar sus conocimientos sobre el funcionamiento de los
+componentes analógicos básicos: diodos, transistores y amplificadores; y estar familiarizado con los circuitos básicos que
+pueden construirse con dichos componentes. En este sentido, deberá dominar la resolución de problemas con presencia de
+diodos, de transistores y de amplificadores. En el caso de diodos, debe ser capaz de acometer los problemas con diferente
+grado de aproximación: ideal, sólo tensión umbral, etc., hasta su utilización como diodo real. En el caso de amplificadores
+monoetapa, debe conocer y aplicar la estrategia de resolución adecuada a cofiguración del circuito planteado. En el caso de
+amplificadores operacionales, debe demostrar el conocimiento del análisis formal de la variedad de circuitos operacionales.
+También deberá se capaz de manejar el álgebra de Boole para diseñar e implementar electrónicamente funciones lógicas,
+así como ser capaz de explicar la funcionalidad de los bloques digitales básicos, saber combinarlos y utilizarlos. Por último, el
+alumnado deberá ser capaz de montar los circuitos anteriormente mencionados en el laboratorio, así como demostrar su
+funcionamiento en coincidencia con el análisis previo realizado de los mismos.
+
+Asignatura: Fundamentos de Ingeniería Química
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+CONTENIDOS TEÓRICOS 
+ 
+Profesora: Mª del Cristo Marrero Hernández 
+ 
+Conceptos fundamentales. Módulo I 
+Tema 1. Conceptos previos 
+Tema 2. Introducción: La industria Química. Ingeniería Química 
+Tema 3. Análisis de las etapas de un proceso químico-industrial. Concepto de proyecto industrial químico 
+ 
+Introducción a las Operaciones Básicas. Módulo II 
+Tema 4. Introducción a las operaciones básicas: Concepto de operación básica y tipos de operaciones. 
+ 
+Balances de materia y energía. Módulo III 
+Tema 5. Balances de materia: Fundamentos y conceptos básicos. Balances de materia en sistemas sin reacción química y 
+en estado estacionario. Balances de materia en sistemas con derivación, recirculación y/o purga. Estado no estacionario. 
+Balances de materia en sistemas con reacción química y estado estacionario 
+Tema 6. Balances de Energía en sistemas sin reacción química y en estado estacionario y no estacionario. Balances de 
+Energía en sistemas con reacción química y en estado estacionario y no estacionario 
+ 
+Introducción a la Ingeniería de la Reacción Química. Módulo IV 
+Tema 7. La etapa de reacción en el proceso químico. La ecuación cinética 
+Tema 8. Fundamentos del diseño de reactores químicos. Modelos de flujo, tipos principales de reactores químicos. 
+Reactores ideales básicos. Diseño de reactor discontinuo, tanque agitado y tubular 
+ 
+Procesos industriales. Módulo V 
+Tema 9. Criterios de selección de los proceso. Ejemplo de proceso de industria transformadora 
+ 
+CONTENIDOS PRÁCTICOS 
+ 
+Profesorado: Candela Díaz García y Luis Enrique Rodríguez Gómez 
+ 
+La asignatura consta de 1,5 ECTS prácticos que incluyen la realización de una práctica de laboratorio y seminarios en grupo. 
+En los seminarios se impartirán temas de dimensiones, unidades y representación gráfica y sus aplicaciones. La realización 
+de esta práctica y seminarios es requisito indispensable para aprobar esta parte de la asignatura. Las sesiones prácticas se 
+realizarán los jueves de 8:00 a 11:00 h, en 5 sesiones de 3 horas cada una para cada grupo, a lo largo de todo el
+
+
+cuatrimestre. 
+Actividades a desarrollar en otro idioma
+Discusión de un proceso químico cuya información esté en inglés.
+
+10. Resultados de Aprendizaje
+Como asignatura del módulo de Tecnología Específica: Química industrial, el resultado principal del aprendizaje debe ser
+adquirir los conocimientos esenciales de la Ingeniería Química como base fundamental para el posterior desarrollo de las
+diferentes materias específicas de la titulación, como:
+- Comprender los fundamentos de los fenómenos de transporte, balances de materia y energía e ingeniería de la reacción
+química
+- Obtener una visión de conjunto de los procesos de transferencia de materia y recursos energéticos
+- Comprender y aplicar los principio químicos a los procesos ingenieriles
+- Adquirir las ideas básicas del diseño de equipos, principalmente reactores
+- Adquirir una visión de conjunto de qué es la Ingeniería química y sus diferentes campos de aplicación adquiriendo la
+estructura mental necesaria para poder afrontar los requerimientos de su formación en este campo
+
+Asignatura: Fundamentos de Ingeniería Eléctrica
+- Departamento/s:
+Ingeniería Industrial
+- Área/s de conocimiento:
+Ingeniería Eléctrica
+6. Contenidos de la asignatura
+
+
+Contenidos teóricos y prácticos de la asignatura
+- Profesores: Peña Fabiani 
+ 
+- Temas: 
+ 
+1. ELEMENTOS Y SEÑALES EN CIRCUITOS ELÉCTRICOS 
+Introducción. Elementos pasivos. Divisor de tensión. Divisor de intensidad. Elementos activos (fuentes de tensión, fuentes de 
+intensidad, fuentes dependientes). Señales en teoría de circuitos (señales de corriente continua, función senoidal, función 
+cuadrada, función triangular) 
+2. MÉTODOS DE ANÁLISIS Y RESOLUCIÓN DE CIRCUITOS 
+Conceptos en topología de circuitos. Ecuaciones necesarias para la resolución de un circuito. Método de voltajes de nodo (el 
+método de voltajes de nodo y las fuentes dependientes, el método de voltajes de nodo: algunos casos especiales) 
+.Introducción al método de corriente de malla (el método de corriente de malla y las fuentes dependientes, método de 
+corrientes de malla: algunos casos especiales). El método de voltajes de nodo frente al método de corrientes de malla. 
+Transformaciones de fuente. Equivalente Thévenin y Norton. Teoremas de transferencia de potencia máxima, superposición 
+y Millman. 
+3. CORRIENTE ALTERNA (CA) 
+Fundamentos. Corriente alterna senoidal: caracterización e importancia. El fasor. Los elementos pasivos de circuito en el 
+dominio de la frecuencia (impedancia y reactancia, diagrama fasoriales). Potencia en corriente alterna, el factor de potencia, 
+corrección del factor de potencia. Teoremas de circuitos en CA. Circuitos RC, RL, RLC. 
+4. SISTEMAS TRIFÁSICOS 
+Definición y utilidad de la corriente trifásica. Conceptos básicos: Magnitudes de fase y de línea, secuencia de fase, sistema 
+equilibrado, conexiones en estrella y triángulo. Conversión triángulo-estrella. Sistemas trifásicos equilibrados. Resolución de 
+sistemas trifásicos. Potencia en sistemas trifásicos 
+5. TRANSFORMADOR IDEAL. Acoplamiento entre bobinas. Principio de funcionamiento de un transformador ideal. 
+Resolución de circuitos con transformadores. 
+ 
+2ª PARTE APLICACIONES 
+5- FUNDAMENTOS DE LAS MÁQUINAS ELÉCTRICAS 
+El campo magnético. Efectos magnéticos en la materia (ferromagnetismo, densidad de flujo magnético, propiedades 
+magnéticas del hierro. Ley de Faraday: voltaje inducido por un campo magnético variable. Ley de Biot y Savart (ley de 
+Laplace): producción de fuerza inducida en un alambre. Conversión de energía electromecánica. Pérdidas de energía en 
+materiales ferromagnético por corrientes parásitas o de Foucaultl. Transformador real: Funcionamiento, pérdidas y 
+rendimiento. Circuito equivalente. 
+7. MÁQUINAS ELECTRICAS ROTATIVAS 
+Consideraciones previas (de servicio, mecánicas, térmicas). Pérdidas y rendimiento. Descripción de una máquina eléctrica 
+rotativa. F.m.m. y campo magnético en el entrehierro de una máquina eléctrica. F.m.m. producida por un devanado trifásico. 
+Campo giratorio. Teorema de Ferraris, Teorema de Leblanc. Aspectos prácticos de funcionamiento: Deslizamiento, par de 
+rotación y rendimiento.  
+MÁQUINA EN CORRIENTE CONTINUA Y EN CORRIENTE ALTERNA: asíncrona  y síncrona.  
+Nomenclatura. Aspectos constructivos. Principio de funcionamiento, inversión del sentido de giro. Regulación de velocidad. 
+Arranque y funcionamiento en condiciones nominales. Funcionamiento como generador y como motor. 
+10. INTALACIONES ELÉCTRICAS EN BAJA TENSIÓN 
+Seguridad en las instalaciones eléctricas: Protección personal y de los equipos, Componentes de protección. Tomas de 
+tierra. Instalaciones interiores en viviendas: normativas, partes de una instalación, esquema unifilar, cálculo de caídas de 
+tensión y secciones de cableado. 
+
+
+CONTENIDOS PRÁCTICOS: Profesores: Peña Fabiani y Carlos Efrén Mora 
+- Aparatos de medida y medidas eléctricas básicas. Las leyes de ohm y de kirchoff en corriente continua. sociación de
+resistencias en serie y en paralelo. - Construcción práctica de circuitos eléctricos 
+- Teorema de thevenin y de máxima transferencia de potencia. Corriente continua y alterna. 
+- Circuitos en corriente alterna. Impedancia, potencia, factor de potencia y su corrección. 
+- Construcción de un transformador. Experimentos de vacío y cortocircuito. Impedancia de entrada. 
+- Protecciones en Instalaciones Eléctricas. 
+ 
+Actividades a desarrollar en otro idioma
+- Temas: 
+Algunos contenidos teóricos serán explicados mediante vídeos en habla inglesa accesibles a través del aula virtual:
+Estas presentaciones en inglés se completarán con unos cuestionarios y ejercicios también en inglés que deberá responder
+el alumno.
+
+10. Resultados de Aprendizaje
+Para superar la asignatura el estudiante deberá demostrar los siguientes resultados:
+- Adquisición de los conocimientos básicos para la resolución y estudio de los circuitos eléctricos en diferentes
+aplicaciones y entornos tecnológicos.
+- Capacidad de manipulación del instrumental y material eléctrico, asi como de aplicar los conocimientos teóricos a
+situaciones prácticas.
+- Adquisición de las capacidades necesarias para adaptarse a diferentes entornos y situaciones en el ámbito eléctrico
+- Capacitación para resolver problemas, tomar de decisiones y transmitir conocimientos, habilidades y destrezas en el campo
+de la Ingeniería Industrial Mecánica
+- Capacitación para al manejo manejo de especificaciones, reglamentos y normas de obligado cumplimiento necesario en el
+ejercicio de la profesión de Ingeniero Industrial
+
+Asignatura: Mecánica de Máquinas
+- Departamento/s:
+Ingeniería Industrial
+- Área/s de conocimiento:
+Ingeniería Mecánica
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Profesora: Isabel T. Martín Mateos 
+ 
+Módulo I CONCEPTOS BÁSICOS DE MECÁNICA. ESTÁTICA. 
+ 
+- Temas: 
+TEMA 1. INTRODUCCIÓN A LA MECÁNICA. 
+1.1 Conceptos fundamentales. 
+1.2 Vectores. 
+1.3 Fuerza y momento 
+1.4 Unidades 
+ 
+TEMA 2. CONCEPTOS FUNDAMENTALES DE ESTÁTICA. 
+2.1 Diagrama sólido rígido. 
+2.2 Concepto de rozamiento. 
+2.3 Planos inclinados. Cuña. Tornillo. Mecanismos básicos. 
+ 
+Módulo II. CINEMÁTICA Y DINÁMICA PLANA. 
+ 
+TEMA 3. CINEMÁTICA DEL PUNTO. 
+3.1 Conceptos fundamentales. Posición, velocidad, aceleración. 
+3.2 Movimiento rectilíneo y curvilíneo. 
+ 
+TEMA 4. CINEMÁTICA PLANA DE CUERPOS RÍGIDOS. 
+4.1 Cuerpos rígidos y tipos de movimiento. 
+4.2 Rotación respecto a un eje fijo. 
+4.3 Movimientos generales: velocidades. Velocidad relativa. Velocidad angular 
+4.4 Centro instantáneo de rotación. 
+4.5 Movimientos generales: aceleraciones. Aceleración relativa. Aceleración angular 
+ 
+TEMA 5. DINÁMICA DEL PUNTO. 
+5.1 Conceptos fundamentales. Fuerza y momento. 
+5.2 Diagrama del cuerpo libre. 
+5.3 Centro de masas. 
+ 
+TEMA 6. DINÁMICA PLANA DE CUERPOS RÍGIDOS. 
+6.1 Deducción de las ecuaciones de movimiento. 
+6.2 Cálculo de Momento de Inercia 
+6.3 Rotación en torno a un eje fijo. 
+6.4 Movimiento Plano General. 
+6.5 Energía y Trabajo: Principio de conservación de la energía 
+ 
+ 
+Módulo III VIBRACIONES. CONCEPTOS BÁSICOS. 
+
+
+TEMA 7. CONCEPTOS BÁSICOS DE VIBRACIONES. 
+ 
+7.1 Conceptos fundamentales. 
+7.2 Descripción de sistemas. 
+7.3 Vibraciones amortiguadas. 
+7.4 Vibraciones forzadas. 
+ 
+Módulo IV PRÁCTICAS 
+ 
+1. Análisis cinemático y dinámico de un mecanismo biela-manivela. CIR 
+2. Análisis cinemático y dinámico de una leva. Plano inclinado. 
+3. Análisis cinemático de los mecanismos de 4 barras. CIR 
+4. Estudio de la Inercia de distintos cuerpos. Teorema de Steiner.
+Actividades a desarrollar en otro idioma
+- Profesora: Isabel T. Martín Mateos
+Se les entregan a los estudiantes hojas de problemas en inglés con ejercicios de los distintos temas, los ejercicios deben
+responderlos también en inglés.
+La evaluación de estos ejercicios se considerará para la evaluación continua.
+
+10. Resultados de Aprendizaje
+El estudiante deberá:
+1. poder identificar los mecanismos sencillos en los sistemas reales con los que se trabaje para poder abordar su estudio de
+forma eficiente.
+2. saber calcular de velocidades y aceleraciones de las distintas partes de los mecanismos para ello deberá saber aplicar los
+teoremas vectoriales a sistemas mecánicos e interpretar los resultados obtenidos.
+3. comprender y aplicar a sistemas mecánicos los conceptos de centro de masas y e inercia.
+3. saber hacer un análisis de las fuerzas y momentos que actúan en los mecanismos para representarlos y poder
+comprender su funcionamiento así como la interacción entre los distintos elementos.
+4. conocer las ecuaciones energéticas y las debe saber aplicar a los sistemas mecánicos.
+5. poder hacer un análisis simple de vibraciones y conocer su efecto en los sistemas.
+6. poder explicar con fluidez y claridad como se realiza la resolución de un problema y como se plantea desde un punto de
+vista mecánico.
+6. podrá trabajar con libros escritos en inglés sin ningún problema pues debe de haberse familiarizado con el vocabulario
+correspondiente.
+
+Asignatura: Ingeniería Térmica
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Temario: 
+Tema 1. Introducción. Sistemas termodinámicos. Trabajo, energía interna y calor. Principios de la termodinámica. Tipos de 
+transformaciones termodinámicas. Aplicación de los principios de la termodinámica a máquinas y motores térmicos. Ciclos 
+termodinámicos de producción de potencia y máquinas térmicas. Clasificaciones de las máquinas térmicas. Rendimiento 
+térmico. 
+Tema 2. Transmisión de calor. Conceptos básicos. Generalidades. Mecanismos de transmisión de calor. Calor y 
+temperatura. 
+Tema 3. Transmisión de calor por conducción. Conducción del calor. Ley de Fourier. Conductividad calorífica. Ecuación 
+general de la conducción de calor. Conducción en régimen estacionario y transitorio. 
+Tema 4. Transmisión de calor. Convección. Coeficientes individuales y globales. Diseño de cambiadores de calor. 
+Tema 5. Evaporación. Tipos de evaporadores. Aprovechamiento de la energía en evaporadores. Cálculo de evaporadores 
+múltiple efecto. Diseño de evaporadores. 
+Tema 6. Radiación. Leyes fundamentales. Calor transmitido por radiación: factor de visión. Medios absorbentes. 
+Coeficientes. 
+Tema 7. Hornos. Tipos. Cálculos de transferencia de calor en hornos. 
+Tema 8.- Motores de combustión interna. Ciclos en motores de combustión interna. Potencia, rendimiento, dimensionado 
+de los motores. Ciclos de comparación para motores de combustión interna (Ciclo dual. Ciclo Otto. Ciclo Diesel). Balances de
+
+
+masa y energía para combustión interna.Motores de encendido provocado y motores de encendido por
+compresión.Combustibles. 
+Tema 9.- Motores de combustión externa. Alternativos (Máquinas de vapor) . Rotativos (turbinas de vapor y turbinas de
+gas) 
+Tema 10.- Máquinas frigoríficas y bombas de calor. Ciclo de refrigeración por compresión de vapor. Métodos de
+producción de frío. Fluidos frigoríficos. Ciclo simple de compresión de vapor. 
+Tema 11.- Generadores de vapor y calderas. Clasificación. Rendimiento de la caldera. Balances de masa y energía.
+Recuperación de los humos. 
+ 
+La asignatura consta de 1,5 ECTS prácticos que consistirán en la realización de las siguientes prácticas de laboratorio: 
+ 
+  1.- Estimación de la conductividad térmica de sólidos y fluidos 
+  2.- Determinación de coeficientes individuales de calor 
+  3.- Estudio de un cambiador de calor 
+ 
+Prácticas de laboratorio: 
+Se realizarán en sesiones de 3 horas cada una, a lo largo de todo el cuatrimestre. Habrá una franja horaria para la
+realización de dichas prácticas ubicada los jueves de 11:30 a 14:30 horas. Al comienzo del curso serán informados todos los
+estudiantes sobre cuando tendrán que realizar las prácticas. 
+ 
+Actividades a desarrollar en otro idioma
+Al menos un 5% de los ECTS se desarrollarán en ingles a través de la siguientes actividades :
+- Utilización de textos en inglés.
+- Utilización de material multimedia y vídeos explicativos sobre temas específicos desarrollados en clase.
+- Búsqueda de información en inglés con entrega de resumen escrito y oral de los mismos.
+
+10. Resultados de Aprendizaje
+
+
+Del aprendizaje de la asignatura Ingeniería Térmica se espera que el estudiante pueda:
+•
+Comprender y aplicar los principios de la Transferencia de calor y sus aplicaciones en Ingeniería.
+•
+Conocimiento de nuevos métodos y teorías relacionados con las leyes termodinámicas y la aplicación de los fenómenos
+de transferencia de calor.
+•
+Familiarizar a los estudiantes con los equipos existentes y su selección.
+•
+Resolución de problemas que se deriven de la aplicación de los conceptos de termodinámica y transferencia de calor en
+el ejercicio profesional.
+•
+Razonamiento crítico para tomas de decisiones.
+•
+La capacidad de comunicar y transmitir conocimientos.
+•
+La capacidad de trabajar en grupos.
+
+Asignatura: Ciencia y Tecnología de Materiales
+- Departamento/s:
+Ingeniería Industrial
+- Área/s de conocimiento:
+Ciencia de los Materiales e Ingeniería Metalúrgica
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Módulo I. ESTRUCTURA DE MATERIALES 
+Profesor/a: José Miguel Cáceres Alvarado / Fernando Rivera López 
+ 
+TEMA1.- Introducción a la Ciencia y Tecnología de Materiales. 
+TEMA 2.- Estructura cristalina.
+
+
+TEMA 3.- Solidificación. Imperfecciones. Difusión. 
+ 
+Prácticas de Laboratorio. 
+PRÁCTICA 1.- Metalografía y microscopia. 
+ 
+Módulo II. CONTROL DE LA MICROESTRUCTURA Y PROPIEDADES MECÁNICAS 
+Profesor/a: José Miguel Cáceres Alvarado / Fernando Rivera López 
+ 
+TEMA 4.- Propiedades mecánicas de los materiales. Mecanismos de deformación plástica. 
+TEMA 5.- Diagramas de equilibrio. 
+TEMA 6.- Diagrama Fe-C. Transformaciones de fase de no equilibrio. 
+ 
+Prácticas de Laboratorio. 
+PRÁCTICA 2.- Tracción. 
+PRÁCTICA 3.- Compresión y flexión. 
+PRÁCTICA 4.- Dureza. 
+ 
+Módulo III. MATERIALES PARA INGENIERÍA 
+Profesor/a: José Miguel Cáceres Alvarado / Fernando Rivera López 
+ 
+TEMA 7.- Aleaciones metálicas: férreas y no férreas. 
+TEMA 8.- Corrosión y degradación de materiales 
+TEMA 9.- Cerámicos. 
+TEMA 10.- Polímeros. Materiales compuestos. 
+TEMA 11.- Materiales funcionales. 
+TEMA 12.- Selección y diseño de materiales. Consideraciones económicas y ambientales. 
+ 
+Prácticas de Laboratorio 
+PRÁCTICA 5.- Polímeros. 
+PRÁCTICA 6.- Corrosión. 
+PRÁCTICA 7.- Ensayos no destructivos: ultrasonidos (US). 
+PRÁCTICA 8.- Inspección de soldaduras por radiografías (RX).
+Actividades a desarrollar en otro idioma
+Profesor/a: José Miguel Cáceres Alvarado / Fernando Rivera López
+El guión de la práctica de laboratorio sobre Corrosión se proporcionará en inglés, y las y los estudiantes realizarán y
+presentarán el informe en dicho idioma.
+El seminario Casos Prácticos se desarrollará en inglés.
+Además, en cada módulo se le proporcionará al alumnado bibliografía y documentos complementarios en inglés.
+
+10. Resultados de Aprendizaje
+El alumnado para superar esta asignatura deberá demostrar los siguientes resultados:
+- Conocer la estructura, composición, procesado, propiedades y comportamiento en servicio de las distintas familias de
+materiales y sus interrelaciones. [9], [T3], [T4], [O6].
+- Ser capaz de seleccionar los materiales en función de sus aplicaciones en los diferentes ámbitos de la ingeniería. [T4], [O8].
+- Conocer los ensayos normalizados más adecuados para la evaluación de las propiedades y el comportamiento de los
+materiales y analizar e interpretar los resultados. [9], [T5].
+
+Asignatura: Química Analítica
+- Departamento/s:
+Química
+- Área/s de conocimiento:
+Química Analítica
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+TEORÍA Y SEMINARIOS 
+Profesor: Guillermo González Hernández 
+Tema 1. Introducción a la Química Analítica.
+
+
+Presentación. Introducción. Definición de la Química Analítica. División de la Química Analítica. Clasificación de los métodos 
+de análisis. El proceso analítico general. Introducción a las técnicas clásicas: equilibrios y volumetrías. 
+Tema 2. Introducción al análisis instrumental. 
+Clasificación de las técnicas instrumentales. Instrumentos para análisis. Relación entre señal y ruido. Fuentes de ruido. 
+Aumento de la relación señal ruido. Problemática general: definición y necesidad de la calibración. Patrones: tipos y 
+requisitos. Adopción de un modelo. Estimación de los parámetros del modelo matemático asumido. Incertidumbre asociada a 
+los coeficientes de regresión y a las predicciones. Métodos de calibración. 
+Tema 3.- Introducción a la espectroscopía de absorción y emisión. 
+Propiedades de la radiación electromagnética. Interacción de la radiación con la materia. Clasificación de las técnicas ópticas 
+de análisis. Técnicas espectroscópicas. Tipos de espectros y mecanismos de interacción. Regiones espectrales y técnicas 
+analíticas. Técnicas no espectroscópicas. 
+Tema 4. Espectroscopía de absorción molecular UV-Visible. 
+Introducción. Teoría de la absorción. Leyes de la absorción de la radiación: Ley de Beer. Limitaciones de la Ley de Beer. 
+Precisión fotométrica. Especies absorbentes. Componentes de los instrumentos. Tipos de fotómetros y espectrofotómetros. 
+Metodología analítica. Aplicaciones. 
+Tema 5. Espectroscopia atómica. 
+Espectroscopia de absorción y emisión atómica. Fundamentos teóricos. Características de la llama como atomizador. 
+Generación de átomos en el estado fundamental. Atomizadores. Fuentes de excitación. Llamas. Lámparas. Instrumentación 
+comparada de las dos técnicas: fotometría de llama y espectrofotometría de absorción atómica de llama. Aplicaciones 
+analíticas. Técnicas de alta sensibilidad. 
+Tema 6. Introducción a las técnicas electroanalíticas. 
+Generalidades y clasificación de las técnicas electroanalíticas. Definiciones y conceptos. Células electroquímicas. Tipos de 
+procesos electródicos. Electrodos de referencia. Electrodo de calomelanos. Electrodo de plata - cloruro de plata. Clasificación 
+de los métodos electroanalíticos. 
+Tema 7. Técnicas potenciométricas de análisis químico. 
+Introducción. Electrodos indicadores de referencia. Electrodos indicadores metálicos. Electrodos indicadores de membrana. 
+Sondas sensibles a gases. Instrumentos para medir los potenciales de celda. Medidas potenciométricas directas. 
+Aplicaciones. 
+Tema 8. Introducción a la cromatografía. 
+Generalidades y clasificación de los métodos cromatográficos. El proceso cromatografico. Teoría de los platos 
+cromatográficos y teoría cinética. Cromatografía líquida. Cromatografía de adsorción. Cromatografía de reparto. 
+Cromatografía de filtración sobre gel. Cromatografía de intercambio iónico. Aplicaciones. 
+Tema 9. Cromatografía líquida de alta resolución. 
+Introducción. Cromatógrafo de líquidos. Componentes del instrumento. Sistemas de propulsión. Sistema de inyección. 
+Columnas cromatográficas. Sistemas de detección. Toma y tratamiento de datos. Aplicaciones de la cromatografía líquida de 
+alta resolución. 
+Tema 10. Cromatografía de gases. 
+Principios básicos de la cromatografía gas líquido. Gas portador. Cromatógrafo de gases. Sistemas de introducción de la 
+muestra. Columnas cromatográficas. Aplicaciones de la cromatografía gases. 
+ 
+PRÁCTICAS DE LABORATORIO 
+Profesorado: Guillermo González Hernández, Óscar M. Hernández Torres y José Elías Conde González. 
+Práctica 1. Espectroscopía de Absorción Molecular. Cumplimiento de la Ley de Beer. Aspectos cuantitativos. 
+Práctica 2. Espectroscopía de Absorción Atómica. Estudio de la influencia de diferentes parámetros fisicoquímicos sobre la 
+señal analítica. Aspectos cuantitativos. 
+Práctica 3. Potenciometría. Características y funcionamiento de diferentes tipos de electrodos. Aplicación cuantitativa de un 
+electrodo selectivo de iones. 
+Práctica 4. Cromatografía Líquida de Alta Resolución. Optimización de las condiciones cromatográficas. Aplicaciones
+
+
+cuantitativas. 
+Práctica 5. Cromatografía de Gases. Optimización de las condiciones cromatográficas. Aplicaciones cuantitativas:
+cuantificación con patrón interno.
+Actividades a desarrollar en otro idioma
+Se debe manejar una parte importante de la bibliografía en inglés: bibliografía básica, revistas propias del área, etc.;
+aprovechando los seminarios programados para comentar aquella más relevante. Se desarrolla una tarea de la parte práctica
+de la asignatura consistente en conocer los nombres en inglés de infraestructura y material del laboratorio químico-analítico.
+EVALUACIÓN: Esta tarea se realiza en las clases de seminarios, y se evalúa como el resto de seminarios.
+
+10. Resultados de Aprendizaje
+- Conocer la metodología general del proceso analítico, valorando la importancia de cada una de las etapas implicadas en el 
+mismo. 
+- Adquirir la destreza básica experimental para la elección, realización y evaluación de los principales métodos 
+instrumentales de análisis.
+
+
+- Conocer el fundamento y aplicaciones de las principales técnicas espectroscópicas moleculares y atómicas. 
+- Conocer el fundamento y aplicaciones de las principales técnicas electroanalíticas. 
+- Conocer el fundamento y aplicaciones de las principales técnicas cromatograficas. 
+- Ser capaz de manejar técnicas espectroscópicas, electroanalíticas y cromatográficas para el análisis cuantitativo en
+aplicaciones de interés industrial. 
+- Ser capaz de obtener e interpretar datos derivados de medidas analíticas. 
+- Adquirir hábitos respetuosos con el medio ambiente y tomar conciencia sobre la correcta manipulación de los residuos
+generados en un laboratorio de análisis químico.
+
+Asignatura: Termodinámica Aplicada y Propiedades de Transporte
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Profesor: Manuel F. Álvarez Díaz 
+ 
+TEMA 1.- PROPIEDADES VOLUMÉTRICAS DE LOS FLUIDOS PUROS 
+Comportamiento presión-volumen-temperatura de las sustancias puras. Ecuación del virial. Aplicaciones de la ecuación del 
+virial. Gas ideal. Ecuaciones de estado cúbicas. Correlaciones generalizadas. 
+ 
+TEMA 2.- EFECTOS CALORÍFICOS 
+Conceptos básicos. Efecto de la temperatura sobre el calor de reacción. Efectos caloríficos de reacciones industriales. 
+Procedimientos de estimación. 
+ 
+TEMA 3.- PROPIEDADES TERMODINÁMICAS DE LOS FLUIDOS 
+Relaciones termodinámicas. Propiedades residuales. Sistemas de dos fases. Diagramas y tablas de propiedades 
+termodinámicas. Correlaciones generalizadas. 
+ 
+TEMA 4.- TERMODINÁMICA DE LAS DISOLUCIONES I 
+Relación fundamental entre propiedades. Comportamiento ideal. Propiedades parciales. Fugacidad y coeficiente de 
+fugacidad de sustancia pura. Fugacidad y coeficiente de fugacidad de especie en disolución. Correlaciones generalizadas 
+para el coeficiente de fugacidad. Propiedades en exceso. Coeficiente de actividad. 
+ 
+TEMA 5.- TERMODINÁMICA DE LAS DISOLUCIONES II 
+Propiedades de la fase líquida a partir de datos de ELV. Modelos para la energía de Gibbs en exceso. Cambios de 
+propiedades por mezclado y efectos caloríficos asociados.
+
+
+ 
+TEMA 6.- EQUILIBRIO LÍQUIDO-VAPOR 
+Diagrama de fases. Formulación gamma/phi. Ecuaciones de estado cúbicas. Correlaciones de valor K 
+ 
+TEMA 7.- EQUILIBRIO QUÍMICO 
+Estequiometría y grado de avance. Entalpía estándar de Gibbs y constante de equilibrio. Evaluación de la constante de
+equilibrio. Relación de constante de equilibrio con la composición. Equilibrio en reacciones múltiples. 
+ 
+TEMA 8.- TRANSPORTE MOLECULAR 
+Tipos y mecanismos de transporte. Transporte molecular, leyes de Newton, Fourier y Fick. Estimación de las propiedades del
+transporte: viscosidad, conductividad y difusividad.
+Actividades a desarrollar en otro idioma
+- Profesor: Manuel F. Álvarez Díaz
+Lecturas y vídeos en lengua inglesa. Uso del simulador de procesos UniSim Design R400
+
+10. Resultados de Aprendizaje
+1. Los alumnos deber ser capaces de aplicar los procedimientos de cálculo y tener criterio de selección de alternativas, 
+encaminados a la determinación de las propiedades volumétricas de los fluidos puros en función de las características de los 
+sistemas. 
+ 
+2. Debe poder evaluar los efectos térmicos asociados a las operaciones físicas y químicas que se presentan en la industria 
+química, recurriendo a procedimientos estimativos en los casos que no de dispongan de datos suficientes. 
+ 
+3. Los alumnos han de comprender las relaciones entre las propiedades termodinámicas haciendo uso conveniente de ellas 
+para el cálculo de dichas propiedades en función de los datos volumétricos y capacidades caloríficas y ecuaciones de 
+estado. Han de estar familiarizados con los diagramas y tablas en las que se presentan los valores de las propiedades 
+termodinámicas. También y en ausencia de datos experimentales deben saber emplear las correlaciones generalizadas que 
+proporcionan estimaciones adecuadas.
+
+
+ 
+4. Las relaciones fundamentales en los sistemas de composición variable, las propiedades parciales y los conceptos de
+fugacidad y coeficiente de fugacidad tienen que ser conocidos, así como, el formalismo de las propiedades en exceso y el
+concepto de coeficiente de actividad. 
+ 
+5. Deben ser capaces de evaluar los coeficientes de fugacidad y aplicar los procedimientos generalizados para su estimación
+y calcular coeficientes de actividad a partir de los diversos modelos para la energía molar de Gibbs en exceso. 
+ 
+6. Los alumnos deben conocer los criterios de equilibrio entre fases y el de estabilidad de las mismas, así como el manejo de
+los diagramas de equilibrio entre fases. 
+ 
+7. Han de familiarizarse con los distintos procedimientos de cálculo del equilibrio líquido-vapor y con los criterios para su uso.
+El procedimiento gamma/phi, para el equilibrio líquido-vapor y para sistemas del tipo soluto-disolvente, el uso de las
+ecuaciones de estado cúbicas y el empleo de cálculos aproximados para algunos sistemas, deben ser suficientemente
+conocidos. 
+ 
+8. Los alumnos han de estar en disposición de poder calcular los valores de las constantes de equilibrio y, en ausencia de
+datos, hacer uso de los distintos métodos de contribuciones de grupos atómicos y estructurales. Para reacciones simples y
+múltiples debe conocer los procedimientos según las características de los sistemas, para calcular las composiciones de los
+sistemas reactivos en el equilibrio. 
+ 
+9. Los alumnos deben saber aplicar los métodos de estimación de las propiedades de transporte, viscosidad, conductividad y
+difusividad.
+
+Asignatura: Tecnología de Procesos de Fabricación
+- Departamento/s:
+Ingeniería Civil, Náutica y Marítima
+- Área/s de conocimiento:
+Ciencias y Técnicas de la Navegación
+Ingeniería de los Procesos de Fabricación
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+MÓDULO I: PROCESOS DE FABRICACIÓN 
+Profesor: Felipe San Luis Gutiérrez 
+TEMA 1: Introducción a los procesos de fabricación. Tipos de procesos de fabricación. 
+TEMA 2: Conformado por deformación plástica y por arranque de viruta. 
+TEMA 3: Ingeniería de la soldadura y otros procesos de unión y ensamble. 
+TEMA 4:  Nuevas tecnologías en procesos, máquinas-herramienta y equipos de fabricación.  
+TEMA 5: Tipos de procesos de fabricación.Control numérico. 
+TEMA 6: Metrología dimensional. 
+TEMA 7: Organización y gestión de la trazabilidad metrológica en sistemas de fabricación. 
+ 
+MÓDULO II: INGENIERÍA DE LA CALIDAD EN SISTEMAS DE FABRICACIÓN 
+- Profesora: Ángela Hernández López 
+TEMA 8 Calidad y control de calidad en fabricación. 
+TEMA 9 Organización y gestión de la calidad en sistemas de fabricación. 
+TEMA 10 Estudio de métodos y control de tiempos. 
+ 
+MÓDULO III: INGENIERÍA MEDIOAMBIENTAL: TECNOLOGÍAS MEDIOAMBIENTALES Y GESTIÓN ENERGÉTICA 
+- Profesora: Ángela Hernández López
+
+
+TEMA 11. Contaminación y Tecnologías Medioambientales para el ahorro energético y prevención de residuos.
+Sostenibilidad 
+TEMA 12. Sistemas de gestión y auditorías medioambientales a los sistemas de fabricación. 
+Actividades a desarrollar en otro idioma
+- Profesores: Ángela Hernández López y Felipe San Luis Gutiérrez
+La docencia en inglés se estima en 0,5 créditos:
+-Determinadas clases teóricas y prácticas se desarrollarán en inglés (terminología de los temas, videos, ...).
+-Presentación de ejercicios y trabajos prácticos o proyectos en inglés.
+-Consulta bibliográfica relativa a trabajos prácticos y proyectos de la asignatura.
+
+10. Resultados de Aprendizaje
+Conocimiento genérico de la Ingeniería de Fabricación así como de los procesos de fabricación y de su ubicación en el
+contexto productivo.
+Aptitud para la identificación de los distintos procesos de fabricación así como de sus características de cara al
+establecimiento de la clasificación de los mismos.
+Conocimiento de los principales sistemas de producción así como de la automatización de las máquinas-herramienta
+mediante técnicas de control numérico.
+Conocimiento de los fundamentos de la calidad y de la implantación de los sistemas normalizados de la calidad en procesos
+productivos.
+Capacidad para analizar y valorar el impacto medioambiental de las posibles soluciones técnicas vinculadas a procesos de
+fabricación o producción.
+Capacidad para trabajar en un entorno multidisciplinar y multilingüe.
+
+Asignatura: Química Industrial
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+TEMA 1: ESTRUCTURA y CARACTERÍSTICAS GENERALES DE LA INDUSTRIA QUÍMICA.- Definición, alcance, evolución 
+y características de la Química Industrial. La industria química española, europea y mundial. Tendencias actuales y futuras. 
+ 
+TEMA 2: EL AIRE COMO MATERIA PRIMA.- Introducción. Posibilidades de aprovechamiento químico-industrial. Separación 
+de los componentes del aire: purificación; obtención de aire líquido (ciclos de expansión: Linde y Claude, mejoras, producción 
+de bajas temperaturas). Rectificación del aire líquido. Instalaciones industriales. 
+ 
+TEMA 3: EL AGUA. ACONDICIONAMIENTO.- Indicaciones de calidad que se exigen para el uso del agua potable e 
+industrial. Tratamientos de acondicionamiento del agua: depuración mecánica; desendurecimiento: métodos físicos; químicos 
+y físico-químicos. Desmineralización. Desgasificación. Eliminación de: impurezas orgánicas; sílice; hierro y manganeso. 
+Introducción a los procesos de desinfección: cloración. 
+ 
+TEMA 4: PROCESOS DE DESALINIZACIÓN DEL AGUA, I.- Introducción. Tipos de procesos. Procesos que separan agua 
+por EVAPORACIÓN: múltiples efectos (MED); compresión mecánica del vapor (CMV) y múltiples efectos flash (MSF). Otros 
+procesos. 
+ 
+TEMA 5: PROCESOS DE DESALINIZACIÓN DEL AGUA, II. ÓSMOSIS INVERSA (OI): introducción; definiciones previas; 
+Tipos de membranas y configuraciones. Bases y criterios de diseño. Descripción general del proceso de una IDAM: áreas de 
+Pretratamiento; Ósmosis Inversa y Postratamiento. ELECTRODIALISIS (ED): conceptos previos. Electro-diálisis Reversible 
+(EDR); Análisis comparativo de procesos. 
+ 
+TEMA 6: APROVECHAMIENTO DE LAS SALES DISUELTAS EN EL AGUA DEL MAR.- Separación de las sales disueltas. 
+La industria química derivada del cloruro sódico. Fabricación del carbonato sódico: método de Leblanc; método Solvay, 
+físico-química. Procesos electroquímicos: electrolisis del Cloruro sódico en disolución acuosa, electrolisis de sales fundidas, 
+producción de aluminio. 
+ 
+TEMA 7: EL PETROLEO, I. INTRODUCCIÓN y FRACCIONAMIENTO: Origen, constitución y caracterización. 
+Acondicionamiento previo del crudo. Esquema general de una refinería. Fraccionamiento. 
+
+
+TEMA 8: EL PETRÓLEO, II. CRACKING y REFORMING: Cracking térmico: introducción; reacciones; tecnologías. Cracking
+catalítico: introducción; reacciones; catalizadores; regeneración de catalizadores; tecnología de los procesos. Hidrocracking:
+reacciones; catalizadores; tecnología. Reforming: reacciones; catalizadores; tecnología. 
+ 
+TEMA 9: EL PETROLEO, III. REFINO y ENSAYOS NORMALIZADOS: Refino de ligeros. Refino de pesados. Productos de
+refinería. Ensayos normalizados.Biorrefinerías. 
+ 
+TEMA 10: LA CALIZA. LA INDUSTRIA QUÍMICA DEL CEMENTO. Aplicaciones químico-industriales de la caliza.
+Descomposición térmica: Hornos industriales. Materias primas y procesos de fabricación del cemento Portland. Propiedades
+de los componentes de un clinker. Propiedades físicas y mecánicas de un cemento. Tipos de cementos. Método gráfico de
+dosificación para la obtención de un clinker. 
+Actividades a desarrollar en otro idioma
+Durante todo el temario se utilizarán textos y material docente en inglés.
+
+10. Resultados de Aprendizaje
+Se pretende que el estudiante adquiera:
+a) Una idea clara de la estructura actual de las industrias químicas, siendo capaces de distinguir entre las diferentes áreas de
+proceso.
+b) Conocimiento global de procesos químicos, sus materias primas y sus productos básicos.
+c) Capacidad de integrar los conocimientos básicos de la Ingeniería Química (Termodinámica, Operaciones Básicas,
+Reacción Química, etc.)
+d) La capacidad de distinguir y elegir entre distintas materias primas para fabricar los mismos productos, incidiendo en las
+características que puedan necesitar en función de los objetivos del proceso o producto.
+e) Conocimiento y capacidad de utilización de bibliografía profesional, incluyendo manuales, revistas periódicas de diverso
+tipo (científico, profesional o divulgativo), en formato físico o electrónico (en castellano o en inglés).
+
+Asignatura: Control e Instrumentación de los Procesos Químicos
+- Departamento/s:
+Ingeniería Informática y de Sistemas
+- Área/s de conocimiento:
+Ingeniería de Sistemas y Automática
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Teoría (Prof. Juan Albino Méndez Pérez)
+1.- Introducción a la Instrumentación: Medición de señales en la industria química, Clasificación de instrumentos,
+Transmisión, Diagramas de tuberías e instrumentos.
+2.- Sensores: Sensores de temperatura, Sensores de presión, Sensores de caudal, Sensores de presión y nivel, y
+Analizadores de procesos.
+3.- Actuadores y elementos finales: Actuadores, Válvulas.
+4.- Dispositivos para la implementación de controladores: PLC, PAC, Controladores de proceso. Buses industriales y
+sistemas SCADA.
+5.- Revisión de técnicas para el control de procesos.
+6.- Control de procesos con retardo: modelado del retardo, predictor de Smith, predictor PI, predictor de procesos con
+respuesta inversa.
+7.- Sistemas de control para rechazo a perturbaciones.
+8.- Control de sistemas multivariable: descripción y análisis de sistemas MIMO, técnicas básicas de diseño, desacoplo de
+sistemas MIMO.
+9.- Introducción el control predictivo.
+Prácticas (Prof. Juan Albino Méndez Pérez):
+- Prácticas de Laboratorio
+- Prácticas en Aula de Informática
+Actividades a desarrollar en otro idioma
+Consulta bibliográfica, documentación, manejo de herramientas informáticas, redacción de informes y presentación de
+trabajos
+
+10. Resultados de Aprendizaje
+Los resultados esperados de aprendizaje son:
+Conocer la instrumentación básica de un sistema de control industrial de procesos químicos.
+Dominar las técnicas basadas en controladores PID.
+Diseñar de forma adecuada sistemas de control para abordar con éxito la regulación de procesos incluso en aquellos casos
+desfavorables como en los que hay presencia de tiempos muertos, perturbaciones, etc.
+Conocer estrategias de control avanzado como por ejemplo el control predictivo basado en modelos o técnicas de control
+multivariable.
+Conocer los aspectos necesarios para abordar un proyecto de control industrial de procesos.
+Conocer la terminología inglesa básica en la materia.
+
+Asignatura: Operaciones de separación
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+CONTENIDOS TEÓRICOS:  
+ 
+1. Introducción a la ingeniería de los procesos de separación. 
+ 
+2. Separación mediante etapas simples de equilibrio: Destilación instantánea. 
+ 
+3. Separación mediante cascada de etapas: Rectificación de mezclas binarias. 
+ 
+4. Introducción a la destilación multicomponente. 
+ 
+5. Diseño de columnas de platos y de relleno. 
+ 
+6. Absorción y desorción. 
+ 
+7. Extracción líquido-líquido en sistemas parcialmente miscibles. 
+ 
+8. Análisis basados en la transferencia de materia y la difusión. 
+ 
+9. Introducción a las separaciones con membranas. 
+ 
+10. Otros procesos de separación. Aplicaciones a la biotecnología. 
+ 
+
+
+CONTENIDOS PRÁCTICOS EN AULA DE INFORMÁTICA:  
+A lo largo del curso se desarrollarán prácticas en aula de informática sobre simulación de operaciones de separación, usando
+el software UniSim Design(c). El contenido de estas prácticas es el siguientes: 
+ 
+1. Introducción al simulador de procesos UniSim Design(c). Destilación instantánea. 
+2. Columnas y recipientes de destilación. 
+3. Columnas de absorción y desorción. 
+4. Extracción líquido-líquido.
+Actividades a desarrollar en otro idioma
+Inglés:
+- 3 horas presenciales de clases prácticas sobre resolución de ejemplos.
+- Realización individual y presentación escrita de un ejercicio.
+- Contestación de algunas cuestiones planteadas en las pruebas objetivas.
+
+10. Resultados de Aprendizaje
+Cada estudiante deberá ser capaces de hacer lo siguiente: 
+1. Explicar cómo se usan las separaciones en una planta química típica. Definir los conceptos de etapa de equilibrio y 
+cascada de etapas. 
+2. Explicar y calcular el proceso básico de destilación instantánea, tanto de mezclas binarias como multicomponentes. 
+3. Explicar cómo funciona una columna de destilación con reflujo a contracorriente (rectificación). Calcular una columna para 
+la rectificación de una mezcla binaria. 
+4. Explicar las características básicas de la destilación multicomponente. Aplicar métodos aproximados y de simulación para 
+el cálculo de una columna de rectificación multicomponente. 
+5. Describir el equipo que se usa en columnas de platos y relleno. Calcular su diámetro y pérdida de carga. Definir y aplicar 
+los diferentes conceptos de eficiencia de platos. Usar el método HETP para calcular una columna de relleno. Determinar 
+intervalos de operación y seleccionar el diseño adecuado. 
+6. Explicar y calcular procesos de absorción y desorción (arrastre o stripping). Calcular columnas de platos y de relleno en 
+operaciones de absorción/desorción. 
+7. Explicar los diferentes tipos de extracción y equipos asociados. Interpretar y calcular equilibrios de extracción en sistemas 
+ternarios. Calcular algunas operaciones de extracción en etapa simple y en cascada de etapas. 
+8. Explicar el concepto de coeficiente de transferencia de materia y su relación con las ecuaciones de difusión en casos
+
+
+sencillos. Usar el análisis HTU-NTU para calcular absorbedores. 
+9. Explicar las características generales de las separaciones con membranas, los materiales y los módulos empleados.
+Conocer y aplicar algunos mecanismos básicos de transporte a través de membranas. Realizar cálculos sencillos en algunas
+operaciones con membranas: permeación de gases, micro y ultrafiltración, ósmosis inversa, pervaporación y/o diálisis. 
+10. Describir aplicaciones de operaciones de separación en biotecnología.
+
+Asignatura: Ingeniería de las Reacciones Químicas
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+TEMA 1.- INTRODUCCIÓN. Relación del reactor químico con los procesos industriales. Relación con otras materias.
+Cinética y Termodinámica. Clasificación de las reacciones. Tipos de reactores. Conversión del reactivo limitante. Factor de
+expansión .
+TEMA 2.- CINÉTICA DE LAS REACCIONES HOMOGÉNEAS. Definición de velocidad de reacción Variables que afectan a la
+velocidad de reacción. Ecuaciones de velocidad de reacción. Mecanismos de reacción y modelos cinéticos. Determinación
+experimental de la velocidad de reacción.
+TEMA 3.- REACTORES HOMOGÉNEOS IDEALES ISOTERMOS, REACCIÓN SIMPLE. Ecuación del balance de materia
+para el cálculo de reactores. Reactor discontinuo: Ecuaciones de diseño. Cálculo del tiempo de reacción y volumen
+necesario. Reactor continuo mezcla perfecta: Ecuación de diseño. Reactor flujo de pistón: Ecuaciones de diseño. Definición
+de tiempo espacial, velocidad espacial y tiempo medio de residencia. Relaciones. Combinación de reactores.
+TEMA 4.- REACCIONES MÚLTIPLES ISOTERMAS. Tipos de reacciones múltiples. Selectividad y rendimiento. Influencia de
+la temperatura y nivel de concentración sobre la selectividad. Elección del reactor y la forma de contacto entre los reactivos.
+Aplicaciones de diseño.
+TEMA 5.- REACCIÓN NO ISOTERMA. Progresión óptima de temperatura. Balance de energía. Reactores no isotermos ni
+adiabáticos. Reactores adiabáticos. Multiplicidad y estabilidad del estado estacionario.
+TEMA 6.- FLUJO NO IDEAL. Funciones de distribución de tiempos de residencia. Técnicas de estímulo respuesta. Cálculo
+de la conversión en sistemas lineales. Modelos. Modelos mezclados. Modelo de dispersión. Modelo de tanques en serie.
+TEMA 7.- REACCIONES CATALÍTICAS HETEROGÉNEAS. REACTORES. Velocidad global. Reactores catalíticos
+heterogéneos: Reactor de lecho fijo, Reactor de lecho fluidizado.
+Actividades a desarrollar en otro idioma
+- Utilización de textos en inglés propuestos en la bibliografía.
+- Utilización de material multimedia en inglés a través de la plataforma virtual.
+- Utilización de videos, páginas web, etc. en inglés.
+- Manejo de información en idioma inglés para resolución de casos prácticos.
+
+10. Resultados de Aprendizaje
+Como resultado se espera que los alumnos adquieran las bases teóricas de operación y diseño de reactores químicos
+utilizados en la industria.
+
+Asignatura: Experimentación en Ingeniería Química I
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Esta asignatura es de carácter totalmente práctico y consiste en la realización de una serie de prácticas de laboratorio sobre
+Ingeniería Fluidomecánica, Ingeniería Ambiental, Reactores Químicos y Operaciones de Separación.
+Las prácticas de laboratorio se realizarán en 20 sesiones de 3 horas cada una, a lo largo de todo el cuatrimestre. Al
+comienzo del curso, los estudiantes serán informados de la franja horaria que tendrán asignada cada semana para la
+realización de las prácticas. Los estudiantes realizarán cada una de las prácticas en grupo pequeño, siendo tutelados por un
+profesor en todo momento. Los profesores que imparten la asignatura se turnarán a lo largo de todo el cuatrimestre, en las
+dos franjas horarias en las que se realizan las prácticas.
+Las prácticas de laboratorio que deberán realizar los estudiantes son las siguientes:
+- Pérdida de carga en lecho poroso
+- Estudio de la sedimentación
+- Estudio de la fluidización
+- Estudio de la filtración
+- Caracterización de un agua residual
+- Estudio de un reactor tanque agitado en régimen discontinuo y semicontinuo
+- Columna de relleno: Comportamiento hidrodinámico
+- Rectificación en columna de relleno: altura equivalente a un piso teórico (AEPT)
+Actividades a desarrollar en otro idioma
+
+
+Actividades a desarrollar en inglés (0,3 ECTS): El material docente de una de las prácticas de laboratorio estará en inglés, y
+los alumnos deberán presentar parte del informe correspondiente en el mismo idioma.
+
+10. Resultados de Aprendizaje
+Tras haber cursado la asignatura el alumno debe haber aprendido a:
+- Realizar experimentos sobre Ingeniería Fluidomecánica, Ingeniería Ambiental, Reactores Químicos y Operaciones de
+Separación, así como posteriormente
+analizar e interpretar los datos experimentales obtenidos
+- Resolver problemas y tomar decisiones, aplicando a la práctica los conocimientos adquiridos previamente
+- Trabajar en equipo y apreciar el método experimental
+- Comunicar y transmitir conocimientos adecuadamente tanto de manera oral como escrita (redacción de informes técnicos)
+
+Asignatura: Fundamentos de Ingeniería y Tecnología Ambiental
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+
+
+Profesora: Luisa María Vera Peña
+Contenidos teóricos
+Tema 1.- INTRODUCCIÓN A LA INGENIERÍA AMBIENTAL.
+Tema 2.- CALIDAD DE LAS AGUAS Y FUENTES DE CONTAMINACIÓN: Conceptos generales sobre contaminación de las
+aguas. Indicadores de contaminación de aguas residuales. Tecnología de la depuración: objetivos y etapas básicas de
+tratamiento.
+Tema 3.- TRATAMIENTO PREVIO: Principios básicos de las operaciones físicas de separación en el tratamiento de aguas
+residuales. Variables de diseño y operación.
+Tema 4.- TRATAMIENTO PRIMARIO: Principios básicos de los procesos físico-químicos de tratamiento de las aguas
+residuales. Variables de diseño y operación. 
+Tema 5.- TRATAMIENTO SECUNDARIO: Fundamentos de la oxidación biológica. Sistemas aerobios de depuración:
+descripción de los procesos y ecuaciones básicas de diseño. Sistemas anaerobios de depuración.
+Tema 6.- TRATAMIENTO TERCIARIO: Procesos empleados en tratamiento terciario de aguas residuales.
+Tema 7.- TRATAMIENTO DE LODOS: Operaciones de acondicionamiento y estabilización biológica de los lodos.
+Tema 8.- CONTAMINANTES ATMOSFÉRICOS. RECONOCIMIENTO Y EVALUACIÓN: Tipos de contaminantes
+atmosféricos y sus efectos. Sistemas y estrategia de muestreo.
+Tema 9.- CONTROL DE CONTAMINACIÓN ATMOSFÉRICA: Métodos generales de control: Vertido a la atmósfera.
+Emisión y dispersión: Modelos de difusión. Extracción localizada: Sistemas de captación.Tecnologías de control de la
+contaminación atmosférica.
+Tema 10.- CONTAMINACION POR RESIDUOS SOLIDOS: Problemática general de los residuos sólidos. Introducción a los
+procesos de tratamiento y reciclaje.
+Visitas técnicas:
+•
+Estación Depuradora de Aguas Residuales
+•
+Estación deTratamiento de Residuos Sólidos
+Actividades a desarrollar en otro idioma
+•
+Utilización de textos y búsqueda de información en inglés.
+•
+Elaboración de trabajos/casos prácticos con entrega de resumen por escrito y posible exposición parcial en inglés.
+•
+Utilización de material multimedia y videos explicativos sobre temas específicos desarrollados en clase y su debate
+posterior.
+•
+Resolución de ejercicios en inglés.
+
+10. Resultados de Aprendizaje
+Los resultados de aprendizaje al concluir el curso, deberán ser:
+•
+El alumnado conozca y comprenda los conceptos fundamentales de la Ingeniería y Tecnología ambiental en cuanto a su
+papel en la sociedad industrial actual y su interrelación con otras disciplinas, así como haber descrito los métodos de
+caracterización de efluentes líquidos y gaseosos desde el punto de vista ambiental.
+•
+El alumnado comprenda las principales tecnologías de tratamiento de efluentes  y su aplicación, así como el
+establecimiento de las bases del diseño de equipos para la regeneración de aguas residuales y el análisis de las
+variables más importantes para optimizar los sistemas de tratamiento de aguas residuales y de efluentes gaseosos.
+•
+El alumnado conozca los conceptos básicos y la problemática general asociada al tratamiento de residuos sólidos.
+
+Asignatura: Seguridad y Prevención de Riesgos en Procesos Industriales
+- Departamento/s:
+Derecho Público y Privado Especial y Derecho de la Empresa
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Derecho del Trabajo y de la Seguridad Social
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Módulo I: Higiene y Seguridad Industrial: Profesor: Luis E. Rodríguez Gómez
+•
+Bloque I. Higiene Industrial: Introducción a la Higiene Industrial. Evaluación higiénica ambiental. Control de la exposición
+a contaminantes químicos (Temas 1, 2 y 3).
+•
+Bloque 2. Seguridad y Análisis de Riesgos en la Industria Química: Conceptos básicos de seguridad industrial. Análisis
+de riesgos. Análisis de consecuencias: Incendios, explosiones. Reducción de riesgo de incendios y explosiones.
+Vulnerabilidad de personas e instalaciones frente a accidentes (Temas 4, 5, 6 y 7).
+Módulo II: Marco Normativo de la Prevención de Riesgos Laborales: Profesora: Dulce María Cairós Barreto
+1. Conceptos básicos sobre seguridad y salud en el trabajo. Marco normativo básico en materia de prevención de riesgos
+laborales
+2. Daños derivados de trabajo. Protección de trabajadores/as especialmente sensibles a determinados riesgos
+3. Derechos y deberes básicos en esta materia: Obligaciones de empresarios y trabajadores en materia de prevención de
+riesgos laborales. 
+4. Obligación de los fabricantes, suministradores e importadores
+5. Información, consulta y participación de los trabajadores en materia preventiva
+6. La organización de la prevención en la empresa: Organización de los recursos para la prevención
+7. Responsabilidades empresariales en materia de prevención de riesgos laborales
+Actividades a desarrollar en otro idioma
+Actividades a desarrollar en inglés (0,3 ECTS): Se trabajará sobre documentación de organización industrial en la empresa
+(Prof. Dulce Cairós Barreto) y sobre higiene industrial y seguridad y análisis de riesgos en la Industria (Prof. Luis E.
+Rodríguez Gómez) en idioma inglés. Se trabajará con terminología específica de higiene y seguridad industrial en inglés, y la
+mayoría de los enunciados de los ejercicios propuestos estarán redactados en dicho idioma. Asimismo, en el Módulo I se
+resolverá un ejercicio y se realizará un foro de discusión en inglés sobre materiales audiovisuales en el mismo idioma (que
+serán evaluados dentro del 40% de pruebas objetivas).
+
+10. Resultados de Aprendizaje
+Tras haber cursado la asignatura cada estudiante debe conocer:
+- Los conceptos principales de higiene industrial.
+- Los principales contaminantes químicos con riesgo de causar daños a la salud de los trabajadores en la industria y sus
+efectos.
+- Los conceptos básicos de seguridad industrial.
+- Las principales técnicas de identificación y cuantificación de riesgos en procesos industriales.
+- Los principales tipos de accidentes industriales (incendios y explosiones) y las variables que influyen en su ocurrencia y
+prevención.
+- Las principales técnicas de seguridad aplicadas a instalaciones industriales.
+- Los conceptos básicos sobre seguridad y salud en el trabajo, así como los posibles daños derivados de trabajo.
+- El marco normativo básico en materia de prevención de riesgos laborales.
+- La obligación empresarial, así como de los trabajadores, fabricantes, suministradores e importadores, en relación a la
+prevención de riesgos laborales.
+- El papel de la Administración Pública en Prevención de Riesgos Laborales.
+
+Asignatura: Tecnología Energética
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+CONTENIDOS TEÓRICOS.
+TEMA 1.- Recursos energéticos. 
+TEMA 2.- Combustibles y combustión. Equipos industriales asociados a la combustión.
+TEMA 3.- Motores térmicos: Características generales y ciclos termodinámicos básicos.
+TEMA 4.- Máquinas frigoríficas y ciclos de refrigeración.
+TEMA 5.- Mezclas aire-agua y acondicionamiento de aire.
+TEMA 6.- Fundamentos de las energías renovables (1): Introducción. Energía solar. Energía eólica. Energía hidráulica.
+TEMA 7.- Fundamentos de las energías renovables (2): Energía de la biomasa y de los biocombustibles. Fuentes y procesos
+de transformación.
+TEMA 8.- Fundamentos de las energías renovables (3): Almacenamiento energético. El hidrógeno como vector energético.
+Pilas de combustible.
+TEMA 9.- Fundamentos de las energías renovables (4): Energía geotérmica. Energía del mar.
+CONTENIDOS PRÁCTICOS.
+1. Simulación de procesos energéticos.
+- Simulación de reacciones de combustión.
+- Simulación de ciclos de motores térmicos.
+- Simulación de ciclos de refrigeración
+2. Prácticas de laboratorio.
+- Análisis energético de una caldera de vapor
+- Refrigeración por compresión de vapor.
+Actividades a desarrollar en otro idioma
+- Utilización de textos en inglés propuestos en la bibliografía. 
+- Utilización de material multimedia en inglés a través de la plataforma virtual.
+
+
+- Utilización de videos, páginas web, etc. en inglés. 
+- Manejo de información en idioma inglés para resolución de casos prácticos.
+
+10. Resultados de Aprendizaje
+Resultados de aprendizaje específicos:
+1. Ser capaz de explicar y calcular procesos de combustión completa.
+2. Describir las características principales de los equipos industriales asociados a la combustión (hornos, calderas y
+generadores de vapor).
+3. Conocer  las características generales de los motores térmicos y de las máquinas frigoríficas más comunes. Calcular sus
+ciclos termodinámicos básicos.
+4. Conocer las propiedades básicas del aire húmedo y su aplicación a los procesos de acondicionamiento de aire y
+enfriamiento de agua. Realizar cálculos sencillos en estos procesos.
+5. Describir y conocer los principales recursos energéticos, tanto fósiles como renovables.
+6. Describir y conocer las tecnologías asociadas a los recursos renovables y a diferentes sistemas de almacenamiento
+energético.
+
+Asignatura: Sistemas de Gestión de Calidad
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+1. Introducción al control estadístico de procesos 
+2. Gráficos de control 
+3. Muestreo para la aceptación 
+4. Sistema de Gestión de Calidad bajo la ISO 9001:2015 
+5. Otras herramientas para la mejora de la calidad 
+6. Sistema de Gestión Ambiental bajo la ISO 14001:2015
+
+
+7. Integración de los Sistemas de Calidad y Medio Ambiente 
+ 
+Contenidos Prácticos: 
+1. Resolución de casos prácticos de control estadístico de calidad y de herramientas para la mejora de la calidad, aplicados a
+la Industria 
+2. Realización de ejercicios sobre el diseño de un Sistema de Gestión de Calidad y Ambiental 
+3. Realización de visitas a empresas del entorno, con Sistemas de Gestión de Calidad y Ambiental implantados
+Actividades a desarrollar en otro idioma
+- Realización de ejercicio escrito en inglés. Al alumno se le asigna un ejercicio práctico en inglés que deberá entregar en los
+plazos que se especifiquen.
+- Búsqueda y análisis de información en inglés. El alumno deberá buscar información en bases de datos generales o
+específicas.
+
+10. Resultados de Aprendizaje
+Se pretende que el alumno conozca y domine las distintas herramientas del control estadístico de la calidad, gráficos de
+control y acciones de ajuste.
+Asimismo conozca las ténicas de muestreo de procesos, con el apoyo de múltiples casos prácticos.
+A continuación se le introduce a la Norma ISO 9001, se desarrolla y se estudia los capítulos que componen un manual de
+calidad.
+Se hace el mismo estudio para la Norma ISO 14001 de Gestión Medioambiental y por último, se desarrollan unas nociones
+de certificación de empresas.
+El objetivo a conseguir con estas normas será el de entenderlas e implementarlas, así como poder desarrollar la
+documentación de las mismas, que
+esencialmente es:
+- Manuales de Normas de Sistemas de Calidad y Medioambiente
+- Procedimientos e Instrucciones Técnicas de las Normas ISO 9001 e ISO 14001
+- Otra documentación de gestión de Calidad o Medioambiental desarrollados en la ULL
+
+Asignatura: Ingeniería Ambiental
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+
+
+CONTENIDOS TEÓRICOS:
+Tema 1.- INTRODUCCIÓN A LA INGENIERÍA AMBIENTAL. 
+Tema 2.- QUÍMICA Y MICROBIOLOGÍA EN LA INGENIERÍA AMBIENTAL
+Tema 3.- CONTAMINACIÓN DEL AGUA. TECNOLOGÍAS DE TRATAMIENTOS DE EFLUENTES LÍQUIDOS. 
+Tema 4.- INGENIERÍA DE RESIDUOS SÓLIDOS.
+Tema 5.- CONTAMINACIÓN DEL AIRE. TECNOLOGÍAS DE TRATAMIENTOS DE EFLUENTES GASEOSOS. 
+Tema 6 - GESTIÓN AMBIENTAL. 
+CONTENIDOS PRÁCTICOS:
+Seminarios prácticos
+•
+SIMULADOR DE PROCESOS DE TRATAMIENTO DE AGUAS RESIDUALES
+Prácticas de laboratorio  
+•
+ANÁLISIS DE QUÍMICOS PARA LA OPTIMIZACION DE PROCESOS DE  COAGULACIÓN-FLOCULACIÓN
+•
+ANÁLISIS DE MEMBRANAS DE NANOFILTRACIÓN Y ÓSMOSIS INVERSA. DESALINIZACIÓN DE AGUAS
+SALOBRES
+Visitas técnicas (en función de la disponibilidad de las empresas)
+•
+EDAR NORESTE 
+•
+COMPLEJO MEDIOAMBIENTAL DE ARICO, EWASTE
+Actividades a desarrollar en otro idioma
+Actividades formativas en inglés.
+- Utilización de textos propuestos en la bibliografía.
+- Utilización de material multimedia y bibliografía a través de la plataforma virtual.
+- Manejo de información científica/tecnológica para resolución de casos prácticos 
+- Manual de utilización del simulador de procesos
+Evaluación de las actividades
+- Se evaluará el dominio del inglés mediante la corrección de los trabajos y proyectos e informes/memorias de prácticas. En
+ellos, algunos apartados, previamente especificados, tendrán que ser redactados en inglés.
+
+10. Resultados de Aprendizaje
+El resultado del aprendizaje de la asignatura será capacitar al alumno para que sepa aplicar los conocimientos adquiridos de
+las Operaciones Básicas de Ingeniería Química a las diferentes tecnologías medioambientales de tratamientos de efluentes
+gaseosos, líquidos y residuos sólidos.
+
+Asignatura: Ingeniería e Industrias Alimentarias
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+
+
+Contenidos teóricos y prácticos de la asignatura
+INTRODUCCIÓN 
+ 
+Tema 1. LA INDUSTRIA ALIMENTARIA 
+Introducción. Aspectos generales. Ingeniería del procesado y conservación de los alimentos. Concepto de Operaciones 
+Unitarias. 
+ 
+PRIMERA PARTE: OPERACIONES DE PROCESADO DE ALIMENTOS 
+ 
+Tema 2. FLUJO DE FLUIDOS EN EL PROCESADO DE ALIMENTOS 
+Reología de alimentos. Formas de comportamiento reológico: alimentos newtonianos y alimentos no newtonianos. Sistemas 
+de conducciones en las plantas de procesado de alimentos. 
+ 
+Tema 3. OPERACIONES CON SÓLIDOS 
+Caracterización de partículas sólidas. Reducción de tamaño: equipos y aplicaciones en la Industria Alimentaria, operación de 
+las instalaciones, efecto de la reducción de tamaño en los alimentos. Tamizado: propósitos en la Industria Alimentaria. 
+ 
+Tema 4. MEZCLA Y EMULSIÓN 
+Mezcla: equipo y aplicaciones en la Industria Alimentaria, efecto en los alimentos. Emulsificación y homogeneización de 
+líquidos: equipos y aplicaciones en la Industria Alimentaria, efecto en los alimentos. 
+ 
+Tema 5. OPERACIONES DE SEPARACIÓN 
+Selección y clasificación. Sedimentación. Centrifugación. Filtración. Prensado o estrujamiento. Separación con membranas. 
+Extracción. Cristalización. Equipos y aplicaciones en la Industria Alimentaria. 
+ 
+Tema 6. OPERACIONES DE TRANSFORMACIÓN QUÍMICA DE LOS ALIMENTOS 
+Transformaciones por tratamientos térmicos. Transformaciones debidas a tratamientos químicos y enzimáticos. 
+Fermentaciones. Aplicaciones en la Industria Alimentaria. 
+ 
+SEGUNDA PARTE: OPERACIONES DE CONSERVACION DE ALIMENTOS 
+ 
+PROCESOS BASADOS EN EL APORTE DE ENERGÍA 
+ 
+Tema 7. CONSERVACIÓN DE ALIMENTOS POR CALOR 
+Introducción: Esterilización y Pasteurización. Destrucción térmica de microorganismos. Tiempo de reducción decimal. Orden 
+de proceso. Termorresistencia: valor z. Tiempo de muerte térmica: valor F. Degradación de los alimentos por el tratamiento 
+térmico. 
+ 
+Tema 8. ESTERILIZACIÓN DE ALIMENTOS ENVASADOS 
+Transferencia de calor. Calculo del tiempo de operación: método general o de Bigelow, método matemático o de Ball. 
+Operaciones previas. Procedimiento operativo. Equipos: distintos tipos de autoclaves. 
+ 
+Tema 9. ESTERILIZACIÓN DE ALIMENTOS SIN ENVASAR 
+Introducción. Procesado aséptico. Intercambio de calor. Esterilización de envases. Esterilización de equipos. 
+ 
+Tema 10. OTROS TRATAMIENTOS TÉRMICOS 
+Pasteurización: fundamentos y equipos para alimentos envasados y a granel. Escaldado: fundamento, equipo para los
+
+
+distintos tipos de escaldado y sistemas de enfriamiento. Tecnologías avanzadas en la esterilización de alimentos. Efectos del
+calor sobre los alimentos durante la esterilización, pasteurización y escaldado. 
+ 
+PROCESOS BASADOS EN LA EXTRACCIÓN DE ENERGÍA 
+ 
+Tema 11. CONGELACIÓN 
+Conservación de alimentos por frío. Conceptos de refrigeración y congelación. Producción de frío mecánico y criogénico.
+Congelación. Cálculo de la carga de refrigeración. Cálculo del tiempo de congelación. Métodos e instalaciones de
+congelación. 
+ 
+Tema 12. REFRIGERACIÓN 
+Refrigeración y almacenamiento en refrigeración: efectos del descenso de temperaturas, factores que determinan la vida útil
+de los alimentos refrigerados, factores a controlar durante el almacenamiento en refrigeración. Cálculos frigoríficos en la
+refrigeración. Atmósferas protectoras. 
+ 
+PROCESOS BASADOS EN LA REDUCCIÓN DE LA ACTIVIDAD DEL AGUA 
+ 
+Tema 13. DESHIDRATACIÓN DE ALIMENTOS 
+Psicrometría: aplicación del diagrama Psicrométrico al secado de alimentos con aire. Actividad del agua: contenido de
+humedad en equilibrio, efecto sobre los alimentos. Secado: Curvas de velocidad de secado, sistemas de secado. Diseño de
+equipos de deshidratación: balances de materia y energía, cálculo del tiempo de secado. Ejemplos de la Industria
+Alimentaria. Liofilización. 
+ 
+Tema 14. CONCENTRACIÓN DE ALIMENTOS POR EVAPORACIÓN 
+Fundamentos: aumento del punto de ebullición. Efecto en las propiedades de los alimentos. Tipos de evaporadores. Diseño
+de evaporadores de simple y múltiple efecto. Ejemplos prácticos en la industria de alimentos. 
+ 
+ 
+Contenidos prácticos: 
+1.- Determinación experimental de parámetros reológicos de alimentos fluidos. 
+2.- Prácticas virtuales de simulación de las Operaciones Básicas en Ingeniería de Alimentos
+Actividades a desarrollar en otro idioma
+- Utilización de textos en inglés propuestos en la bibliografía.
+- Utilización de material multimedia en inglés a través de la plataforma virtual.
+- Utilización de videos, páginas web, etc. en inglés.
+- Manejo de información en idioma inglés para resolución de casos prácticos.
+
+10. Resultados de Aprendizaje
+El resultado principal del aprendizaje de la asignatura es que el alumno sea capaz de aplicar los conocimientos adquiridos de
+las Operaciones Básicas de la Ingeniería Química a la Industria de alimentos, tanto a las operaciones de procesado como de
+conservación de alimentos.
+Resultados de aprendizaje específicos:
+1. Sea capaz de identificar los aspectos distintivos de la industria alimentaria frente a otras industrias de proceso.
+2.- Sea capaz de elegir la secuencia de operaciones básicas y transformaciones necesarias para la preparación, elaboración
+y conservación de un determinado alimento.
+3.- Sea capaz de analizar las ventajas, inconvenientes y limitaciones de los equipos e instalaciones con los que se elaboran
+y conservan los alimentos.
+4.- Sea capaz de evaluar y cuantificar la influencia de diferentes variables de operación en el proceso de elaboración de un
+alimento.
+5.- Sea capaz de analizar la repercusión en la calidad final del alimento de posibles cambios en las características de la
+materia prima o en las condiciones de procesado del mismo.
+6.- Sea capaz de buscar información sobre las actuales líneas de investigación en el procesado y conservación de alimentos,
+analizarla, sintetizarla y exponerla oralmente.
+
+Asignatura: Diseño de Procesos en Ingeniería Química
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Dr. D. José Juan Macías Hernández 
+ 
+Tema 1. Conceptos básicos del diseño 
+Contenidos: 
+•    Se hace una descripción de cómo se realizan los proyectos de diseño de plantas químicas (básicamente las tres etapas, 
+conceptual, básica y detalle) además de los roles profesionales (ingenieros químicos, eléctricos, mecánicos, de tuberías, de 
+seguridad, financieros, etc.) que participan en cada etapa. Se estiman 4 horas trabajo presencial y 6 horas de trabajo 
+autónomo. 
+Actividades: 
+•    Proponer distintos procesos químicos y buscar información en la Web. 
+Tema 2. Diagramas de procesos químicos 
+Contenidos: 
+•    Elaboración y manejo de distintos tipos de diagramas para Ingeniería Conceptual e Ingeniería Básica (diagramas de 
+bloques, de flujo de proceso, P&ID, etc). Se estiman 8 horas trabajo presencial y 12 horas de trabajo autónomo. 
+Actividades: 
+•    Realizar distintas actividades con diagramas de proceso de distinto tipo. Por ejemplo, análisis de P&ID para elaborar 
+diagramas de flujo y de bloques. 
+Tema 3 Localización y distribución de equipos en planta 
+Contenidos:
+
+
+•    Factores que afectan la localización de una planta química. 
+•    Métodos de elección de localización 
+•    Factores de la distribución en planta de los equipos e instalaciones. 
+•    Se estiman 12 horas trabajo presencial y 18 horas de trabajo autónomo. 
+Actividades: 
+•    Ejercicios de aplicación de métodos de localización 
+•    Ejercicios de distribución de equipos en planta 
+Tema 4. Estimación de los costes del capital 
+Contenidos: 
+•    Índice de coste de plantas químicas, CPI 
+•    Estimación de coste de capital (inversión). Método de Guthrie, factores de Williams, método de Wilson y método de la 
+unidad funcional. 
+•    Introducción a herramientas de cálculo de coste preliminar de inversión y producción, CAPCOST 
+•    La incertidumbre en la estimación de costes. Método de Montecarlo. 
+•    Se estiman 4 horas trabajo presencial y 6 horas de trabajo autónomo. 
+Actividades: 
+•    Ejercicios manuales de cálculo de inversión en equipos 
+•    Ejercicio con CAPCOST y efecto de simulación Montecarlo. 
+Tema 5. Estimación de los costes de la producción 
+Contenidos: 
+•    Apartados en el cálculo de coste de producción 
+•    Coste de las materias primas y productos. Transporte. INCOTERMS 
+•    Costes de los servicios de electricidad, vapor, fuel, etc. 
+•    Costes de mano de obra, distribución de equipos de trabajo y organigramas en la empresa. 
+•    Se estiman 8 horas trabajo presencial y 11 horas de trabajo autónomo. 
+Actividades: 
+•    Ejercicios manuales de coste de producción utilizando diferentes fuentes y métodos 
+Tema 6. Análisis y evaluación económica de procesos químicos 
+Contenidos: 
+•    El valor temporal de dinero. Tasa de interés. 
+•    Evaluación de alternativas de inversión en equipos 
+•    Flujos de caja, CashFlow, Payout, ROI, VAN, Marginalidad, TIR 
+•    Se estiman 8 horas trabajo presencial y 12 horas de trabajo autónomo. 
+Actividades: 
+•    Ejercicios de cálculo de diferentes parámetros financieros, selección de alternativas de proyecto. 
+Tema 7. Análisis y Síntesis de Procesos. Nivel 1 
+Contenidos: 
+•    Introducción al Diseño Conceptual. Análisis y Síntesis de Procesos. 
+•    Diagramas de bloques típicos, entrada-salida, recirculación, separación e integración energética 
+•    Jerarquía de decisiones, sistema basado en reglas 
+•    Información básica para el diseño 
+•    Nivel 1. Continuo-Discontinuo Se estiman 3 horas trabajo presencial y 4,5 horas de trabajo autónomo. 
+Actividades: 
+•    Búsqueda de información básica para el proceso de diseño conceptual 
+•    Problemas de elección de sistemas continuos o discontinuos 
+Tema 8. Síntesis de Procesos. Nivel 2. Entrada - Salida 
+Contenidos: 
+•    El ejemplo de la Hidro alquilación del Tolueno. Nivel 2, Sistema de Entrada Salida 
+
+
+•    Alternativas de diseño. Reglas para tener en cuenta 
+•    Determinación del número de corrientes de proceso (código de destino) 
+•    Variables de diseño 
+•    Balance de Materia basado en las decisiones 
+•    Cálculo del potencial económico de nivel 2. 
+•    Se estiman 3 horas trabajo presencial y 4,5 horas de trabajo autónomo. 
+Actividades: 
+•    Realizar los balances de la HDA del Tolueno para diferentes alternativas 
+•    Cálculo del potencial económico 
+•    Realización de diferentes casos (etilenglicol, acetona, etc.) 
+Tema 9. Síntesis de Procesos. Nivel 3. Recirculación 
+Contenidos: 
+•    Sistemas de reacción y recirculación. Reglas de diseño. Anhídrido Acético 
+•    Determinación de tipo y número de corrientes de recirculación 
+•    Variables de diseño 
+•    Balance de Materia basado en las decisiones 
+•    Cálculo del potencial económico de nivel 3. 
+•    Se estiman 4 horas trabajo presencial y 6 horas de trabajo autónomo. 
+Actividades: 
+•    Realizar los balances de la HDA del Tolueno para diferentes alternativas en recirculación 
+•    Cálculo del potencial económico para el HDA 
+•    Realización de diferentes casos 
+Tema 10. Síntesis de Procesos. Nivel 4. Separación 
+Contenidos: 
+•    Elección del Sistema de separación requerido. 
+•    El Sistema de separación de líquido. Reglas. Secuencia de separación. 
+•    El Sistema de recuperación de gases. Reglas. 
+•    Variables de diseño 
+•    Balance de Materia basado en las decisiones 
+•    Cálculo del potencial económico de nivel 4. 
+•    Se estiman 3 horas trabajo presencial y 4,5 horas de trabajo autónomo. 
+Actividades: 
+•    Realizar los balances de la HDA del Tolueno para diferentes alternativas de separación 
+•    Cálculo del potencial económico para el HDA 
+•    Realización de diferentes casos 
+Tema 11. Síntesis de Procesos. Nivel 5. Conceptos de Integración Energética básica 
+Contenidos: 
+•    La eficiencia energética y su necesidad. 
+•    La técnica del pinzamiento. Introducción 
+Actividades: 
+•    Identificación de corrientes calientes y frías 
+•    Se estiman 1 horas trabajo presencial y 1,5 horas de trabajo autónomo.
+Actividades a desarrollar en otro idioma
+- Resolución de ejercicio escrito (problemas de cálculo) en inglés. Al alumno se le asigna un ejercicio práctico de evaluación 
+económica en ingles que deberá entregar en los plazos que se especifiquen. 
+- Exposición oral en inglés. Al alumno se le asignará un tema específico de la materia que deberá exponer inglés (máximo 10
+
+
+min). 
+- Búsqueda de información en inglés. El alumno deberá buscar información en bases de datos generales o específicos de
+casos concretos que se le asignarán y deberán realizar un resumen por escrito de las mismas. 
+- Se usarán vídeos explicativos en inglés (5-15 min) sobre temas específicos desarrollados en clase y se debatirá su
+contenido en el aula.
+
+10. Resultados de Aprendizaje
+El resultado de aprendizaje va a describir lo que previsiblemente los estudiantes deberán saber, comprender y ser capaces 
+de hacer al finalizar con éxito esta asignatura:
+
+
+1.    El alumno aprenderá a conocer la naturaleza del diseño, a diferenciar los procesos continuos y por lotes, a realizar y
+construir los diferentes tipos de diagramas de flujos, así como las especificaciones y factores de seguridad del proceso y de
+los equipos. 
+2.    El alumno describirá con ejemplos la elección y factores que se han de tener en cuenta en la selección del
+emplazamiento de un proceso químico. Asimismo, evaluará con rigor el desarrollo de un plano de planta, la información
+necesaria para hacer el plano, la situación de los equipos, y aspecto tales como: soportes de tuberías, carreteras, vías de
+acceso y pavimentación, disposición de los edificios y espaciado de los equipos. 
+3.    El alumno aprenderá a realizar la estimación de costes del Capital y de Producción, a partir del conocimiento de los
+Índices y Fuentes de coste. Poniendo en práctica diferentes métodos de estimación: Estimaciones preliminares: Método
+Generales; Métodos Factoriales y/o Métodos Funcionales. 
+4.    El alumno manejando los conceptos de interés, amortización e impuestos debe ser capaz de aplicar Criterios de
+Rentabilidad en la valoración y selección de alternativas, tales como: Tiempo de recuperación del capital o payout time, Tasa
+de recuperación de la inversión original (ROI). El valor actual neto (VAN o NPV), la tasa de retorno de los cash flow
+descontados (DCFRR) o TIR. 
+5.    El alumno adquiere la capacidad para utilizar Diseño Conceptual en el desarrollo de procesos en la Industria Química.
+
+Asignatura: Simulación y Optimización de Procesos Químicos
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+- Profesor: José Juan Macías Hernández 
+Temario (parte teórica) 
+- Tema 1. Generalidades. Instrumentacion. Diagramas. Evaluacion Economica. Hojas de datos. Metodos abreviados 
+- Tema 2. Diseño Conceptual. Repaso 
+- Tema 3. Integración Energética PINCH 
+- Tema 4. Mejoras de procesos existentes 
+- Tema 5. Optimización. Variables 
+- Tema 6. Algoritmos de Optimización 
+Seminario 
+- Seminario Operacion Planta Virtual 
+Temario (parte práctica) 
+- Tema Simulación 1 Introducción. Simuladores de proceso. Estado estacionario y Simulación dinámica 
+- Tema Simulación 2. Sistemas de Reacción 
+- Tema Simulación 3. Separacion de equilibrio y recirculación 
+- Tema Simulación 4. Recirculación de Liquido 
+- Tema Simulación 6. Sistema de Separación 
+- Tema Simulación 7. Sistemas de intercambio energético 
+- Tema Simulación 8. Optimización del diagrama de flujo
+
+
+ 
+Actividades a desarrollar en otro idioma
+- Profesor: José Juan Macías Hernández
+- Temas:
+Los temas se desarrollan con un porcentaje muy alto de bibliografía en Inglés. Las prácticas con el simulador se desarrollan
+utilizando todo el material en Inglés.
+- Búsqueda de información en Inglés. Los alumnos deben buscar información en bases de datos generales o específicas de
+casos concretos que le serán asignados y deberán realizar un resumen escrito y una presentación oral.
+
+10. Resultados de Aprendizaje
+•    Capacidad para utilizar Diseño Conceptual utilizando simulación rigurosa.
+•    Capacidad de realizar simulaciones utilizando simuladores comerciales (UNISIM) para diseñar plantas químicas, nivel de
+Ingeniería Básica.
+•    Capacidad para comprender las relaciones entre las variables fundamentales de una planta química, como control de
+inventario, energía, calidad, y seguridad. Esto les permitirá colocar la instrumentación en los diagramas de Instrumentación y
+Tubería para completar la Ingeniería básica de las plantas químicas.
+•    Capacidad para identificar y crear modelos de simulación para plantas químicas.
+
+Asignatura: Experimentación en Ingeniería Química II
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Farmacia y Tecnología Farmacéutica
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+Esta asignatura es únicamente de carácter práctico y se estructura en dos bloques bien diferenciados: 
+A) El primer bloque consite en la realización de una serie de seminarios sobre la industria de procesos químicos y visitas a 
+instalaciones industriales. 
+B) El segundo bloque consite en la realización de una serie de prácticas de laboratorio que se realizan en las instalaciones 
+del departamento de Ingeniería Química y Tecnología Farmacéutica sobre transferencia de materia, ingeniería de las 
+reacciones químicas y tecnología del medio ambiente. 
+ 
+A) En la parte de prácticas correspondiente al bloque A, los seminarios abordaran el manejo documentación y planos, como 
+introducción a la industria de procesos. Los seminarios, tendrán su continuación en prácticas de campo, realizadas a través 
+de visitas a diversas instalaciones industriales donde los estudiantes podrán familiarizarse y profundizar en las diversas 
+unidades de producción, la disposición de los equipos industriales, los sistemas de control y el desarrollo de los 
+correspondientes diagramas de flujo (Profesores Encargados: José Juan Macías Hernández y Karina Elvira Rodríguez 
+Espinoza). 
+ 
+B) Las prácticas de laboratorio propuestas para que realicen los estudiantes en las instalaciones del departamento de 
+Ingeniería Química y Tecnología Farmacéutica, son las siguientes: 
+- Extracción sólido-líquido (Profesor Encargado: Manuel F. Álvarez Díaz). 
+- Rectificación en columna de platos (Profesor Encargado: Juan M. Rodríguez Sevilla). 
+- Reactores químicos: Técnicas estímulo-respuesta  (Profesora Encargada: Alicia Torres Gil). 
+- Filtración a través de unidad de membrana porosa (Profesor Encargado: Ignacio Ruigómez Sempere).
+
+
+Actividades a desarrollar en otro idioma
+Actividades a desarrollar en inglés (0,3 ECTS): Parte del material docente y bibliográfico estará en inglés.
+Los alumnos deberán presentar el resumen y los objetivos de los informes de prácticas, en dicho idioma. Serán responsables
+los profesores que imparten la asignatura.
+
+10. Resultados de Aprendizaje
+a) Capacitar al alumno para realizar diagramas de flujo de procesos industriales.
+b) Capacitar al alumno para clasificar y describir equipos a escala industrial, atendiendo a diferentes variables, dentro de la
+propia refinería.
+c) Capacitar al alumno en las habilidades para la realización de experimentos, así como en el análisis e interpretación de
+datos sobre: Operaciones de Transferencia de Materia, Ingeniería de las Reacciones Químicas y Tecnología del Medio
+Ambiente.
+d) Suministrar oportunidades a los estudiantes para desarrollar destrezas de trabajo en equipo y aprecio por el método
+experimental.
+e) Desarrollar destrezas para la comunicación escrita de informes técnicos.
+
+Asignatura: Oficina Técnica/Proyectos
+- Departamento/s:
+Ingeniería Química y Tecnología Farmacéutica
+- Área/s de conocimiento:
+Ingeniería Química
+6. Contenidos de la asignatura
+Contenidos teóricos y prácticos de la asignatura
+UNIDAD 1: CONSIDERACIONES GENERALES
+TEMA 1: DEFINICIÓN DE PROYECTO. CONCEPTO TRADICIONAL Y MODERNO
+TEMA 2: EL MARCO LEGAL. NORMATIVAS BASICAS
+TEMA 3: FASES DE DESARROLLO DEL PROYECTO
+TEMA 4: INGENIERIA BASICA Y DE DESARROLLO
+UNIDAD 2: DOCUMENTOS DEL PROYECTO
+TEMA 5: MEMORIA Y SUS ANEJOS
+TEMA 6: PLANOS
+TEMA 7: PLIEGO DE CONDICIONES
+TEMA 8: MEDICIONES Y PRESUPUESTO
+TEMA 9: ESTUDIO DE SEGURIDAD Y SALUD
+TEMA 10: OTROS DOCUMENTOS
+UNIDAD 3: EJECUCIÓN DEL PROYECTO Y DIRECCIÓN DE OBRAS
+TEMA 11 :TRAMITACIÓN Y AUTORIZACIÓN DE PROYECTOS
+TEMA 12: LA DIRECCIÓN DE OBRAS
+TEMA 13: GESTION, CONTRATACIÓN Y SUPERVISIÓN DE PROYECTOS
+UNIDAD 4: PLANIFICACIÓN Y PROGRAMACIÓN DE PROYECTOS
+TEMA 14: PROGRAMACIÓN DE LA EJECUCIÓN DEL PROYECTO
+TEMA 15: GESTION DE CALIDAD EN EL PROYECTO Y LA EJECUCION
+UNIDAD 5: EJERCICIO PROFESIONAL DE LA INGENIERIA
+TEMA 16: ATRIBUCIONES PROFESIONALES. COLEGIOS Y ASOCIACIONES PROFESIONALES
+TEMA 17: LA EMPRESA CONSULTORA DE INGENIERIA Y LA INGENIERIA DE EMPRESA
+TEMA 18: LA RESPONSABILIDAD CIVIL EN EL EJERCICIO PROFESIONAL
+Actividades a desarrollar en otro idioma
+Se propondrán artículos en inglés sobre el ejercicio de la ingeniería en el ámbito europeo y temas afines, para su discusión
+en clase.
+Los alumnos entregarán así mismo un resumen del proyecto propuesto en inglés, que se evaluará en el conjunto del 60% de
+trabajos individuales, según se detalla en el apartado evaluacion.
+
+10. Resultados de Aprendizaje
+a)Despertar y fomentar las características precisas de imaginación o creatividad, que le permitan aportar soluciones de
+diseño a afrontar cualquier problema de Ingeniería y resolverlo.
+b)Completar los conocimientos de los alumnos en aquellas áreas especialmente relacionadas con el desarrollo de proyectos,
+potenciando la formación científica y técnica impartida a lo largo de la carrera, poniendo de manifiesto la relación entre teoría
+y práctica de la profesión
+c)Incentivar a los alumnos para que tengan criterios propios y capacidad de autocrítica, así como la aparición de criterios
+técnicos e ingenieriles.
+d) Aplicar de una forma continua el análisis, la comparación y la evaluación de las diferentes alternativas que surgen en el
+desarrollo de un Proyecto, así como la toma de decisiones, previa al establecimiento de los oportunos criterios de valoración:
+técnicos, económicos, funcionales, formales, sociales y medioambientales.
+e) Conocer la metodología precisa para iniciar, elaborar y confeccionar proyectos, proporcionando conocimientos de la
+confección material y formal de un Proyecto y las técnicas de presentación del mismo, así como de las bases legales
+vigentes y de las normas técnicas relacionadas con la confección y ejecución de proyectos, y de las fuentes de información
+para actualizarlas.
+g)Conocer algunas experiencias prácticas sobre el arte de proyectar y el desarrollo de la actividad profesional
+
+
